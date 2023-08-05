@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Dong Chen"
+  name             : "Dong Chen"
   avatar           : "photo_dong.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoc Researcher @ UVa"
+  location         : "Charlottesville, VA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dwvTqeUAAAAJ&hl=en"
-  email            :
+  email            : "chendon9@msu.edu"
   researchgate     :  "https://www.researchgate.net/profile/Dong-Chen-28"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chen-dong-8ab11413b/"
   orcid            : 
   pinterest        :
   soundcloud       :
