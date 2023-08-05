@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- B.S. in Mechanical Engineering, University of Electronic Science and Technology of China, 2017
+- M.S. in Electrical and Computer Engineering, Michigan State University, 2020
+- Ph.D. in Electrical and Computer Engineering, Michigan State University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- [01/2023 - 06/2023] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
+- [05/2022 - 08/2022] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
+- [06/2020 - 08/2020] Software Engineer Intern at [T-Mobile](https://www.t-mobile.com/about-us), USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Services
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Editors
+- Guest Editor, Computers and Electronics in Agriculture
 
-Publications
+### Journal & Conference Reviewer
+- IEEE Transactions on Smart Grid
+- IEEE Transactions on Power Systems
+- IEEE Transactions on Energy Markets, Policy and Regulation
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Intelligent Vehicles
+- Journal of the ASABE
+- Frontiers in Plant Science
+- Applied Engineering in Agriculture
+- International Journal of Intelligent Systems
+- International Journal of Intelligent Robotics and Applications
+- Evolving Systems
+- ACC
+- DSCC
+- MECC
+
+Honors & Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- ASABE ITSC Paper Award, 2023
+- Student Travel Award, ACC 2020
+- Recruiting Fellowship, MSU, 2018
+- National Endeavor Fellowship, UESTC, 2015
+- First Prize, 4th National Undergraduate Engineering Training Integration Ability Competition, China, 2015
+- Second Prize, 12nd National Undergraduate Electronic Design Contest, China, 2015
