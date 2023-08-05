@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About me
 
 I am a Postdoc researcher at the Computer Science, University of Virginia (UVa). Before joining UVa, I got my Ph.D. degree in Electrical and Computer Engineering at Michigan State University, under the supervision of Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). 
