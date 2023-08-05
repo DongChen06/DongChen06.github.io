@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Dong Chen"
+title                    : "Dong Chen"
 title_separator          : "-"
 name                     : &name "Dong Chen"
 description              : &description "Postdoc researcher at University of Virginia"
