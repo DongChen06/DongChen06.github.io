@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <br/>
-
 Education
 ======
 - B.S. in Mechanical Engineering, University of Electronic Science and Technology of China, 2017
@@ -18,7 +17,6 @@ Education
 - Ph.D. in Electrical and Computer Engineering, Michigan State University, 2023
 
 <br/>
-
 Work experience
 ======
 - [01/2023 - 06/2023] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
@@ -26,7 +24,6 @@ Work experience
 - [06/2020 - 08/2020] Software Engineer Intern at [T-Mobile](https://www.t-mobile.com/about-us), USA
 
 <br/>
-
 Services
 ======
 ### Editors
@@ -49,7 +46,6 @@ Services
 - MECC
 
 <br/>
-
 Honors & Awards
 ======
 - ASABE ITSC Paper Award, 2023
