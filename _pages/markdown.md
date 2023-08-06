@@ -14,7 +14,7 @@ Michigan State University, MI, USA
 + 517 249 9856
 
 ## Email
-chendondon19930606@gmail.com
+chendondon19930606 at gmail.com
 
 ## WeChat ID
 chendon1234
