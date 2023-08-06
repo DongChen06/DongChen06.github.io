@@ -9,26 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 - B.S. in Mechanical Engineering, University of Electronic Science and Technology of China, 2017
 - M.S. in Electrical and Computer Engineering, Michigan State University, 2020
 - Ph.D. in Electrical and Computer Engineering, Michigan State University, 2023
 
 
-Work experience
-======
+### Work experience
 - [01/2023 - 06/2023] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
 - [05/2022 - 08/2022] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
 - [06/2020 - 08/2020] Software Engineer Intern at [T-Mobile](https://www.t-mobile.com/about-us), USA
 
 
-Services
-======
-### Editors
+### Services
+#### Editors
 - Guest Editor, Computers and Electronics in Agriculture
 
-### Journal & Conference Reviewer
+#### Journal & Conference Reviewer
 - IEEE Transactions on Smart Grid
 - IEEE Transactions on Power Systems
 - IEEE Transactions on Energy Markets, Policy and Regulation
@@ -45,8 +42,7 @@ Services
 - MECC
 
 
-Honors & Awards
-======
+### Honors & Awards
 - ASABE ITSC Paper Award, 2023
 - Student Travel Award, ACC 2020
 - Recruiting Fellowship, MSU, 2018
