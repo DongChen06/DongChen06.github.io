@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am a Postdoc researcher at the Computer Science, University of Virginia (UVa). Before joining UVa, I got my Ph.D. degree in Electrical and Computer Engineering at Michigan State University, under the supervision of Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). 
+I got my Ph.D. degree in Electrical and Computer Engineering at Michigan State University, under the supervision of Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). 
 
 ### Research Interests
 - Reinforcement Learning
