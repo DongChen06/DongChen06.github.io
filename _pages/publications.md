@@ -8,8 +8,6 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile
 
-<br/>
-
 ### Preprints & Under Review
 - **Deep data augmentation for weed recognition enhancement: A diffusion probabilistic model and transfer learning based approach** \
   **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
@@ -38,8 +36,6 @@ IEEE Transactions on Intelligent Vehicles, 2022
 - **Automated testing of mobile devices using visual analysis** \
 **Chen, Dong**, Anqi Luo, Pei Zheng, and Tor Fredericks \
   U.S. Patent Application 17/094,741, filed May 12, 2022.
-
-<br/>
 
 ### Journal Papers
 - **Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic** \
@@ -77,8 +73,6 @@ IEEE Transactions on Intelligent Vehicles, 2022
 - **Powernet: Multi-agent deep reinforcement learning for scalable powergrid control** \
   **Chen, Dong**, Kaian Chen, Zhaojian Li, Tianshu Chu, Rui Yao, Feng Qiu, and Kaixiang Lin  \
   IEEE Transactions on Power Systems 37, no. 2 (2021): 1007-1017.
-
-<br/>
 
 ### Conference Papers
 - **ML/DL in Agriculture through Label-Efficient Learning** \
