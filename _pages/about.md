@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 ### About me
-
 I got my Ph.D. degree in Electrical and Computer Engineering at Michigan State University, under the supervision of Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). 
 
 ### Research Interests
