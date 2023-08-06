@@ -8,13 +8,14 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### ME 451: Control Systems (Spring 2021) 
 
-Heading 1
-======
+**Course Description**: Mathematical modeling of dynamic systems. Standard feedback control formulation. Transient and sinusoidal steady-state analysis. Time and frequency domain controller synthesis.
 
-Heading 2
-======
+### Instructor: 
 
-Heading 3
-======
+Dr. Zhaojian Li
+
+### TA Office Hours: 
+
+MW: 10:10-11:00 AM or by appointment
