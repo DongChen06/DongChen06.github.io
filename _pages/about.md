@@ -22,4 +22,4 @@ I got my Ph.D. degree in Electrical and Computer Engineering at Michigan State U
 ### News
 - [07/2023] I have successfully defended the PhD dissertation. Now, officially Dr. Chen!
 - [07/2023] Our paper on "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach" won the ITSC Technical Community Meeting Paper Awards.
-- [05/2023] Our paper "Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic" has been accepted by IEEE Transactions on Intelligent Transportation Systems [Paper](https://ieeexplore.ieee.org/abstract/document/10159552) [Codes](https://github.com/DongChen06/MARL_CAVs)
+- [05/2023] Our paper "Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic" has been accepted by IEEE Transactions on Intelligent Transportation Systems [[Paper]](https://ieeexplore.ieee.org/abstract/document/10159552) [[Codes]](https://github.com/DongChen06/MARL_CAVs)
