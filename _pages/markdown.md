@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 ## Office
-Michigan State University, MI, USA
+- Michigan State University, MI, USA
 
 ## Phone number
-+ 517 249 9856
+- +1 517 249 9856
 
 ## Email
-chendondon19930606 at gmail.com
+- chendondon19930606 at gmail.com
 
 ## WeChat ID
-chendon1234
+- chendon1234
