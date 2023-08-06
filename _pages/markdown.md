@@ -14,7 +14,7 @@ redirect_from:
 - +1 517 249 9856
 
 ## Email
-- chendondon19930606 at gmail.com
+- chendon9 [at] gmail [dot] com
 
 ## WeChat ID
 - chendon1234
