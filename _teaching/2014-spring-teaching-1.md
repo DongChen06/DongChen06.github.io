@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Michigan State University, Department of Mechanical Engineering"
-date: 2021-01
+date: 2021-01-02
 location: "City, Country"
 ---
 
