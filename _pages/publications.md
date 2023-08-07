@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile
 
 ### Preprints & Under Review
@@ -16,8 +15,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 - **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** \
  **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li \
-IEEE Transactions on Intelligent Transportation Systems, 2023 \
-[[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC)
+ IEEE Transactions on Intelligent Transportation Systems, 2023 \
+ [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC)
   
 - **Design and Modeling of a Cable-Driven Soft Robotic Arm Inspired by Octopus** \
   Qi Xinda, Mei Yu, **Chen, Dong**, Li Zhaojian, Tan Xiaobo \
@@ -30,8 +29,8 @@ IEEE Transactions on Intelligent Transportation Systems, 2023 \
   
 -  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
   Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
-IEEE Transactions on Intelligent Vehicles, 2022 \
-[[Paper]](https://arxiv.org/abs/2208.10302) [[Codes]](https://github.com/DangFengying/RL-based-event-triggered-MPC)
+  IEEE Transactions on Intelligent Vehicles, 2022 \
+  [[Paper]](https://arxiv.org/abs/2208.10302) [[Codes]](https://github.com/DangFengying/RL-based-event-triggered-MPC)
 
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
@@ -45,12 +44,12 @@ IEEE Transactions on Intelligent Vehicles, 2022 \
 - **Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic** \
   **Chen, Dong**, Mohammad R. Hajidavalloo, Zhaojian Li, Kaian Chen, Yongqiang Wang, Longsheng Jiang, and Yue Wang \
    IEEE Transactions on Intelligent Transportation Systems, 2023 \
-  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10159552) [[Codes]](https://github.com/DongChen06/MARL_CAVs)
+   [[Paper]](https://ieeexplore.ieee.org/abstract/document/10159552) [[Codes]](https://github.com/DongChen06/MARL_CAVs)
   
 -  **O2rnet: Occluder-occludee relational network for robust apple detection in clustered orchard environments** \
   Chu, Pengyu, Zhaojian Li, Kaixiang Zhang, **Chen, Dong**, Kyle Lammers, and Renfu Lu \
   Smart Agriculture Technology, 2023 \
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375523001132) [[Codes]](https://github.com/pengyuchu/MSUAppleDatasetv2)
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375523001132) [[Codes]](https://github.com/pengyuchu/MSUAppleDatasetv2)
 
 -  **YOLOWeeds: a novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems** \
     Dang, Fengying*, **Chen, Dong***, Yuzhen Lu, and Zhaojian Li \
@@ -78,13 +77,13 @@ IEEE Transactions on Intelligent Vehicles, 2022 \
   [[Paper]](https://link.springer.com/article/10.1007/s43684-022-00023-5)
 
 -  **Mechanical System Inspired Microscopic Traffic Model: Modeling, Analysis, and Validation**  \
-  Hajidavalloo, Mohammad R., Zhaojian Li, **Chen, Dong**, Ali Louati, Shuo Feng, and Wubing B. Qin \
+   Hajidavalloo, Mohammad R., Zhaojian Li, **Chen, Dong**, Ali Louati, Shuo Feng, and Wubing B. Qin \
    IEEE Transactions on Intelligent Vehicles, 2022 \
    [[Paper]](https://ieeexplore.ieee.org/abstract/document/9695257) [[Codes]](https://github.com/DongChen06/NGSIM_DATA_PROCESSING)
 
 - **Powernet: Multi-agent deep reinforcement learning for scalable powergrid control** \
   **Chen, Dong**, Kaian Chen, Zhaojian Li, Tianshu Chu, Rui Yao, Feng Qiu, and Kaixiang Lin  \
-  IEEE Transactions on Power Systems 37, no. 2 (2021): 1007-1017. \
+  IEEE Transactions on Power Systems 37, no. 2 (2021): 1007-1017 \
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9502564) [[Codes]](https://github.com/DongChen06/PGSIM)
 
 ### Conference Papers
