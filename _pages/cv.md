@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-- B.S. in Mechanical Engineering, University of Electronic Science and Technology of China, 2017
-- M.S. in Electrical and Computer Engineering, Michigan State University, 2020
 - Ph.D. in Electrical and Computer Engineering, Michigan State University, 2023
+- M.S. in Electrical and Computer Engineering, Michigan State University, 2020
+- B.S. in Mechanical Engineering, University of Electronic Science and Technology of China, 2017
 
 
 ### Work experience
