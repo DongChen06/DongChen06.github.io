@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ### Preprints & Under Review
 - **Deep data augmentation for weed recognition enhancement: A diffusion probabilistic model and transfer learning based approach**  \
@@ -52,7 +52,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375523001132) [[Codes]](https://github.com/pengyuchu/MSUAppleDatasetv2)
 
 -  **YOLOWeeds: a novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems** \
-    Dang, Fengying*, **Chen, Dong***, Yuzhen Lu, and Zhaojian Li \
+    Dang, Fengying, **Chen, Dong***, Yuzhen Lu, and Zhaojian Li \
     Computers and Electronics in Agriculture, 2023 \
     [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000431) [[Codes]](https://github.com/DongChen06/DCW)
 
@@ -62,7 +62,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9901459) [[Codes]](https://github.com/LongshengJiang/NGSIM-tools)
   
 - **Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review** \
-  Lu, Yuzhen*, **Chen, Dong***, Ebenezer Olaniyi*, and Yanbo Huang \
+  Lu, Yuzhen, **Chen, Dong***, Ebenezer Olaniyi, and Yanbo Huang \
   Computers and Electronics in Agriculture, 2022 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)
   
@@ -72,7 +72,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233) [[Codes]](https://github.com/DongChen06/CottonWeeds)
   
 - **Multi-agent reinforcement learning for cooperative lane changing of connected and autonomous vehicles in mixed traffic** \
-  Zhou, Wei*, **Chen, Dong***, Jun Yan, Zhaojian Li, Huilin Yin, and Wanchen Ge \
+  Zhou, Wei, **Chen, Dong***, Jun Yan, Zhaojian Li, Huilin Yin, and Wanchen Ge \
   Autonomous Intelligent Systems, 2022 \
   [[Paper]](https://link.springer.com/article/10.1007/s43684-022-00023-5)
 
