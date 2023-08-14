@@ -11,17 +11,17 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
   Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models?style=social) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models?style=social)
+  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
 
 - **Deep data augmentation for weed recognition enhancement: A diffusion probabilistic model and transfer learning based approach**  \
   **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2210.09509) [[Codes]](https://github.com/DongChen06/DMWeeds) ![](https://img.shields.io/github/stars/DongChen06/DMWeeds?style=social) ![](https://img.shields.io/github/forks/DongChen06/DMWeeds?style=social)
+  [[Paper]](https://arxiv.org/abs/2210.09509) [[Codes]](https://github.com/DongChen06/DMWeeds) ![](https://img.shields.io/github/stars/DongChen06/DMWeeds) ![](https://img.shields.io/github/forks/DongChen06/DMWeeds)
 
 - **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** \
  **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li \
  IEEE Transactions on Intelligent Transportation Systems, 2023 \
- [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC) ![](https://img.shields.io/github/stars/DongChen06/MACACC?style=social) ![](https://img.shields.io/github/forks/DongChen06/MACACC?style=social)
+ [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC) ![](https://img.shields.io/github/stars/DongChen06/MACACC) ![](https://img.shields.io/github/forks/DongChen06/MACACC)
   
 - **Design and Modeling of a Cable-Driven Soft Robotic Arm Inspired by Octopus** \
   Qi Xinda, Mei Yu, **Chen, Dong**, Li Zhaojian, Tan Xiaobo \
@@ -30,7 +30,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
   Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
   Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture?style=social) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture?style=social)
+  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
   
 -  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
   Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
