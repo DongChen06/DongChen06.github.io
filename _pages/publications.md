@@ -8,6 +8,11 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ### Preprints & Under Review
+- **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
+  Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
+  Computers and Electronics in Agriculture, 2023 \
+  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models?style=social) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models?style=social)
+
 - **Deep data augmentation for weed recognition enhancement: A diffusion probabilistic model and transfer learning based approach**  \
   **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2023 \
