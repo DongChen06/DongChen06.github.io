@@ -28,9 +28,10 @@ Hi! I received my Ph.D. degree in Electrical and Computer Engineering at Michiga
   </thead>
 </table>
 
+- <span style="color:darkred"> New! </span> 08/2023. Our preprint paper **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** is now available at Arxiv [[Paper]](https://arxiv.org/abs/2308.06668)
 - <span style="color:darkred"> New! </span> 07/2023. I have successfully defended the Ph.D. dissertation. Now, officially Dr. Chen!
-- <span style="color:darkred"> New! </span> 07/2023. Our paper on "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach" won the ITSC Technical Community Meeting Paper Awards.
-- <span style="color:darkred"> New! </span> 05/2023.  Our paper on "Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic" has been accepted by T-ITS [[Paper]](https://ieeexplore.ieee.org/abstract/document/10159552) [[Codes]](https://github.com/DongChen06/MARL_CAVs)
+- <span style="color:darkred"> New! </span> 07/2023. Our paper on **Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach** won the ITSC Technical Community Meeting Paper Awards.
+- <span style="color:darkred"> New! </span> 05/2023.  Our paper on **Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic** has been accepted by T-ITS [[Paper]](https://ieeexplore.ieee.org/abstract/document/10159552) [[Codes]](https://github.com/DongChen06/MARL_CAVs)
 
 <br/>
 
