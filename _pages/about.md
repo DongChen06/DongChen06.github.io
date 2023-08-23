@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-Hi! I received my Ph.D. degree in Electrical and Computer Engineering at Michigan State University, under the supervision of Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). 
+Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA), affiliated with both the [Environmental Institute](https://environment.virginia.edu/) and [Link Lab](https://engineering.virginia.edu/link-lab) mentored by Drs. [Arsalan Heydarian](https://engineering.virginia.edu/faculty/arsalan-heydarian) and [Brad Campbell](https://engineering.virginia.edu/faculty/brad-campbell). I earned my Ph.D. in Electrical and Computer Engineering from Michigan State University, guided by Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). 
 
 ## Research Interests
 - Reinforcement Learning
