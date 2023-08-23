@@ -35,7 +35,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 -  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
   Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
   IEEE Transactions on Intelligent Vehicles, 2022 \
-  [[Paper]](https://arxiv.org/abs/2208.10302) [[Codes]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/forks/DangFengying/RL-based-event-triggered-MPC)
+  [[Paper]](https://arxiv.org/abs/2208.10302) [[Codes1]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/forks/DangFengying/RL-based-event-triggered-MPC)  [[Codes2]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DongChen06/Event-trigger-MPC) ![](https://img.shields.io/github/forks/DongChen06/Event-trigger-MPC)
 
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
