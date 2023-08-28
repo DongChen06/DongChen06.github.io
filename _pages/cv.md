@@ -23,7 +23,7 @@ redirect_from:
 
 ### Services
 #### Editors
-- Guest Editor, Computers and Electronics in Agriculture
+- Guest Editor for [Agricultural Cybernetics](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture/special-issue/10VPBS35XNL), Computers and Electronics in Agriculture
 
 #### Journal & Conference Reviewer
 - IEEE Transactions on Smart Grid
