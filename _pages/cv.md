@@ -40,9 +40,13 @@ tbd
 - International Journal of Intelligent Systems
 - International Journal of Intelligent Robotics and Applications
 - Evolving Systems
-- ACC
-- DSCC
-- MECC
+- American Control Conference (ACC)
+- ASME Dynamic Systems and Control Conference (DSCC)
+- Modeling, Estimation and Control Conference (MECC)
+
+### Professional Memberships
+- Institute of Electrical and Electronics Engineers (IEEE), member
+- American Society of Agricultural and Biological Engineers (ASABE), member
 
 
 ### Honors & Awards
