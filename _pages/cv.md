@@ -50,6 +50,7 @@ tbd
 
 
 ### Honors & Awards
+- Presentation Excellence Award, ASABE, 2023
 - ASABE ITSC Paper Award, 2023
 - Student Travel Award, ACC 2020
 - Recruiting Fellowship, MSU, 2018
