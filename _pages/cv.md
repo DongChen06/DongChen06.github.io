@@ -20,8 +20,10 @@ redirect_from:
 - [05/2022 - 08/2022] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
 - [06/2020 - 08/2020] Software Engineer Intern at [T-Mobile](https://www.t-mobile.com/about-us), USA
 
-### Invited Talks
-tbd
+### Invited Talks & Presentations
+- [07/2023] ASABE
+- [02/2023] AI in Agriculture
+- [07/2020] ACC
 
 ### Services
 #### Editors
