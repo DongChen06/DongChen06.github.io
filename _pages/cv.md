@@ -35,6 +35,7 @@ redirect_from:
 - IEEE Transactions on Energy Markets, Policy and Regulation
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Industrial Informatics
 - Transportation Research Part C: Emerging Technologies
 - Journal of the ASABE
 - Frontiers in Plant Science
