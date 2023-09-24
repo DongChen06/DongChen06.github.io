@@ -21,7 +21,10 @@ redirect_from:
 - [06/2020 - 08/2020] Software Engineer Intern at [T-Mobile](https://www.t-mobile.com/about-us), USA
 
 ### Invited Talks & Presentations
+#### Invited Talks
 - [09/2023] "Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control " at IEEE ITSC, Bilbao, Bizkaia, Spain (Virtual)
+
+#### Presentations
 - [07/2023] "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach" at ASABE Annual International Meeting, Omaha, Nebraska, USA
 - [02/2023] "Synthetic Data Augmentation by Diffusion Probabilistic Models for Enhancing Weed Recognition", AI in Agriculture, ORLANDO, FL, USA
 - [07/2020] "Autonomous driving using safe reinforcement learning by incorporating a regret-based human lane-changing decision model" at American Control Conference (ACC)  (Virtual)
