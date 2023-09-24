@@ -28,6 +28,8 @@ Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA)
   </thead>
 </table>
 
+- <span style="color:darkred"> New! </span> 08/2023. I gave an invited talk on "Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control
+" at 2023 IEEE ITSC.
 - <span style="color:darkred"> New! </span> 08/2023. I am glad to receive the **Presentation Excellence Award** at the ASABE's 2023 Annual International Meeting
 - <span style="color:darkred"> New! </span> 08/2023. Our preprint paper **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** is now available at Arxiv [[Paper]](https://arxiv.org/abs/2308.06668)
 - <span style="color:darkred"> New! </span> 08/2023. Our preprint paper **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** is now available at Arxiv [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC)
