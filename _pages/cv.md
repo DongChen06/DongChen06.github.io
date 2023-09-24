@@ -29,7 +29,7 @@ redirect_from:
 #### Presentations
 - [07/2023] "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach" at ASABE Annual International Meeting, Omaha, Nebraska, USA
 - [02/2023] "Synthetic Data Augmentation by Diffusion Probabilistic Models for Enhancing Weed Recognition", AI in Agriculture, ORLANDO, FL, USA
-- [07/2020] "Autonomous driving using safe reinforcement learning by incorporating a regret-based human lane-changing decision model" at American Control Conference (ACC)  (Virtual)
+- [07/2020] "Autonomous driving using safe reinforcement learning by incorporating a regret-based human lane-changing decision model" at American Control Conference (ACC), Denver, CO, USA  (Virtual)
 
 ### Services
 #### Editors
