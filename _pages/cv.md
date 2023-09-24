@@ -49,6 +49,8 @@ redirect_from:
 
 ### Professional Memberships
 - Institute of Electrical and Electronics Engineers (IEEE), member
+- IEEE Intelligent Transportation Systems Society, member
+- IEEE Robotics and Automation Society, member
 - American Society of Agricultural and Biological Engineers (ASABE), member
 
 
