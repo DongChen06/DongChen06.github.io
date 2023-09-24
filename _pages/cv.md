@@ -16,9 +16,11 @@ redirect_from:
 
 
 ### Work experience
+- [08/2023 - present] Postdoc Researcher Associate at [University of Virginia](https://www.virginia.edu/), USA
 - [01/2023 - 06/2023] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
 - [05/2022 - 08/2022] Research Intern at [Argonne National Lab](https://www.anl.gov/), USA
 - [06/2020 - 08/2020] Software Engineer Intern at [T-Mobile](https://www.t-mobile.com/about-us), USA
+
 
 ### Invited Talks & Presentations
 #### Invited Talks
