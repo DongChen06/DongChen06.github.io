@@ -67,7 +67,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9901459) [[Codes1]](https://github.com/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/stars/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/forks/LongshengJiang/NGSIM-tools)  [[Codes2]](https://github.com/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/stars/DongChen06/PathTrackingBicycle) ![](https://img.shields.io/github/forks/DongChen06/PathTrackingBicycle)
   
 - **Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review** \
-  Lu, Yuzhen, **Chen, Dong***, Ebenezer Olaniyi, and Yanbo Huang \
+  Lu, Yuzhen*, **Chen, Dong***, Ebenezer Olaniyi*, and Yanbo Huang \
   Computers and Electronics in Agriculture, 2022 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
   
@@ -77,7 +77,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233) [[Codes]](https://github.com/DongChen06/CottonWeeds)  ![](https://img.shields.io/github/stars/DongChen06/CottonWeeds) ![](https://img.shields.io/github/forks/DongChen06/CottonWeeds)
   
 - **Multi-agent reinforcement learning for cooperative lane changing of connected and autonomous vehicles in mixed traffic** \
-  Zhou, Wei, **Chen, Dong***, Jun Yan, Zhaojian Li, Huilin Yin, and Wanchen Ge \
+  Zhou, Wei*, **Chen, Dong***, Jun Yan, Zhaojian Li, Huilin Yin, and Wanchen Ge \
   Autonomous Intelligent Systems, 2022 \
   [[Paper]](https://link.springer.com/article/10.1007/s43684-022-00023-5) 
 
@@ -109,5 +109,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   NeurIPS 2021 Workshop on Machine Learning for Autonomous Driving, 2021
   
 - **Autonomous driving using safe reinforcement learning by incorporating a regret-based human lane-changing decision model** \
-  **Chen, Dong**, Longsheng Jiang, Yue Wang, and Zhaojian Li \
+  **Chen, Dong***, Longsheng Jiang*, Yue Wang, and Zhaojian Li \
   American Control Conference (ACC), 2020
