@@ -43,6 +43,8 @@ redirect_from:
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Industrial Informatics
 - Transportation Research Part C: Emerging Technologies
+- IEEE Robotics and Automation Letters
+- Heliyon, Cell Press
 - Journal of the ASABE
 - Frontiers in Plant Science
 - Applied Engineering in Agriculture
