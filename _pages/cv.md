@@ -45,6 +45,7 @@ redirect_from:
 - Transportation Research Part C: Emerging Technologies
 - IEEE Robotics and Automation Letters
 - Heliyon, Cell Press
+- Computers and Electronics in Agriculture
 - Journal of the ASABE
 - Frontiers in Plant Science
 - Applied Engineering in Agriculture
