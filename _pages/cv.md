@@ -52,6 +52,7 @@ redirect_from:
 - International Journal of Intelligent Systems
 - International Journal of Intelligent Robotics and Applications
 - Evolving Systems
+- Autonomous Intelligent Systems
 - American Control Conference (ACC)
 - ASME Dynamic Systems and Control Conference (DSCC)
 - Modeling, Estimation and Control Conference (MECC)
