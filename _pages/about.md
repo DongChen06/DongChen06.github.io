@@ -28,6 +28,7 @@ Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA)
   </thead>
 </table>
 
+- <span style="color:darkred"> New! </span> 10/2023. Our preprint paper "SoybeanNet for Soybean Pod Counting with UAV images" is now available at Arxiv [[Paper]](https://arxiv.org/abs/2310.10861)
 - <span style="color:darkred"> New! </span> 09/2023. I gave an invited talk on "Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control
 " at 2023 IEEE ITSC.
 - <span style="color:darkred"> New! </span> 08/2023. I am glad to receive the **Presentation Excellence Award** at the ASABE's 2023 Annual International Meeting
