@@ -31,11 +31,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
   Computers and Electronics in Agriculture, 2023 \
   [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
-  
--  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
-  Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
-  IEEE Transactions on Intelligent Vehicles, 2022 \
-  [[Paper]](https://arxiv.org/abs/2208.10302) [[Codes1]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/forks/DangFengying/RL-based-event-triggered-MPC)  [[Codes2]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DongChen06/Event-trigger-MPC) ![](https://img.shields.io/github/forks/DongChen06/Event-trigger-MPC)
 
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
@@ -46,6 +41,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   U.S. Patent Application 17/094,741, filed May 12, 2022.
 
 ### Journal Papers
+-  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
+  Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
+  IEEE Transactions on Intelligent Vehicles, 2023 \
+  [[Paper]](https://arxiv.org/abs/2208.10302) [[Codes1]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/forks/DangFengying/RL-based-event-triggered-MPC)  [[Codes2]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DongChen06/Event-trigger-MPC) ![](https://img.shields.io/github/forks/DongChen06/Event-trigger-MPC)
+
 - **Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic** \
   **Chen, Dong**, Mohammad R. Hajidavalloo, Zhaojian Li, Kaian Chen, Yongqiang Wang, Longsheng Jiang, and Yue Wang \
    IEEE Transactions on Intelligent Transportation Systems, 2023 \
