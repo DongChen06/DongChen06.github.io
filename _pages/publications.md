@@ -44,7 +44,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 -  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
   Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
   IEEE Transactions on Intelligent Vehicles, 2023 \
-  [[Paper]](https://arxiv.org/abs/2208.10302) [[Codes1]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/forks/DangFengying/RL-based-event-triggered-MPC)  [[Codes2]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DongChen06/Event-trigger-MPC) ![](https://img.shields.io/github/forks/DongChen06/Event-trigger-MPC)
+  [[Paper]](https://ieeexplore.ieee.org/document/10306336) [[Codes1]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/forks/DangFengying/RL-based-event-triggered-MPC)  [[Codes2]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DongChen06/Event-trigger-MPC) ![](https://img.shields.io/github/forks/DongChen06/Event-trigger-MPC)
 
 - **Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic** \
   **Chen, Dong**, Mohammad R. Hajidavalloo, Zhaojian Li, Kaian Chen, Yongqiang Wang, Longsheng Jiang, and Yue Wang \
