@@ -28,6 +28,7 @@ Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA)
   </thead>
 </table>
 
+- <span style="color:darkred"> New! </span> 11/2023. "Event-trigger MPC" has been accepted by T-IV [[Paper]](https://ieeexplore.ieee.org/document/10306336)
 - <span style="color:darkred"> New! </span> 10/2023. Our preprint paper "SoybeanNet for Soybean Pod Counting with UAV images" is now available at Arxiv [[Paper]](https://arxiv.org/abs/2310.10861)
 - <span style="color:darkred"> New! </span> 09/2023. I gave an invited talk on "Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control
 " at 2023 IEEE ITSC.
