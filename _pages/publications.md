@@ -27,11 +27,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Qi Xinda, Mei Yu, **Chen, Dong**, Li Zhaojian, Tan Xiaobo \
   Soft Robotics, 2023  
 
-- **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
-  Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
-  Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
-
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
   U.S. Patent Application 17/674,557, filed June 2, 2022.
@@ -41,6 +36,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   U.S. Patent Application 17/094,741, filed May 12, 2022.
 
 ### Journal Papers
+
+- **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
+  Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
+  Computers and Electronics in Agriculture, 2023 \
+  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
+
 -  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
   Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
   IEEE Transactions on Intelligent Vehicles, 2023 \
