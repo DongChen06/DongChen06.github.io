@@ -61,6 +61,7 @@ redirect_from:
 - Institute of Electrical and Electronics Engineers (IEEE), member
 - IEEE Intelligent Transportation Systems Society, member
 - IEEE Robotics and Automation Society, member
+- Computer Vision Foundation, member
 - American Society of Agricultural and Biological Engineers (ASABE), member
 
 
