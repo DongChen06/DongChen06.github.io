@@ -28,6 +28,7 @@ Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA)
   </thead>
 </table>
 
+- <span style="color:darkred"> New! </span> 12/2023. "Diffusion models for agriculture image generation" has been accepted by COMPAG
 - <span style="color:darkred"> New! </span> 11/2023. "Label-efficient Learning in Agriculture" has been accepted by COMPAG
 - <span style="color:darkred"> New! </span> 11/2023. "Event-trigger MPC" has been accepted by T-IV [[Paper]](https://ieeexplore.ieee.org/document/10306336)
 - <span style="color:darkred"> New! </span> 09/2023. I gave an invited talk on "Communication-Efficient Decentralized MARL for CACC" at 2023 IEEE ITSC.
