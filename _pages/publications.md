@@ -13,10 +13,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Computers and Electronics in Agriculture, 2023 \
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923008001?dgcid=coauthor) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
 
-- **Deep data augmentation for weed recognition enhancement: A diffusion probabilistic model and transfer learning based approach**  \
-  **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
-  Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2210.09509) [[Codes]](https://github.com/DongChen06/DMWeeds) ![](https://img.shields.io/github/stars/DongChen06/DMWeeds) ![](https://img.shields.io/github/forks/DongChen06/DMWeeds)
 
 - **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** \
  **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li \
@@ -36,7 +32,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   U.S. Patent Application 17/094,741, filed May 12, 2022.
 
 ### Journal Papers
-
+- **Synthetic Data Augmentation by Diffusion Probabilistic Models to Enhance Weed Recognition**  \
+  **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
+  Computers and Electronics in Agriculture, 2023 \
+  [[Paper]](https://arxiv.org/abs/2210.09509) [[Codes]](https://github.com/DongChen06/DMWeeds) ![](https://img.shields.io/github/stars/DongChen06/DMWeeds) ![](https://img.shields.io/github/forks/DongChen06/DMWeeds)
+  
 - **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
   Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
   Computers and Electronics in Agriculture, 2023 \
