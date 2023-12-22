@@ -44,6 +44,7 @@ redirect_from:
 - IEEE Transactions on Industrial Informatics
 - Transportation Research Part C: Emerging Technologies
 - IEEE Robotics and Automation Letters
+- Journal of Field Robotics
 - Heliyon, Cell Press
 - Computers and Electronics in Agriculture
 - Journal of the ASABE
