@@ -8,8 +8,13 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ### Preprints & Under Review
+- **Design and Nonlinear Modeling of a Modular Cable-Driven Soft Robotic Arm** \
+  Xinda Qi, Yu Mei, **Chen, Dong**, Zhaojian Li, Xiaobo Tan \
+  IEEE Transactions on Mechatronics, 2024 \
+  [[Paper]](xx)
+
 - **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
-  Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
+  Xinda Qi, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
   [[Paper]](https://arxiv.org/abs/2312.11084) [[Codes]](https://github.com/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/stars/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/forks/huahuaedi/MARL_in_CAV_control_review)
 
 - **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
