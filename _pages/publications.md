@@ -14,7 +14,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](xx)
 
 - **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
-  Xinda Qi, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
+  Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
   [[Paper]](https://arxiv.org/abs/2312.11084) [[Codes]](https://github.com/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/stars/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/forks/huahuaedi/MARL_in_CAV_control_review)
 
 - **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
@@ -27,10 +27,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li \
  IEEE Transactions on Intelligent Transportation Systems, 2023 \
  [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC) ![](https://img.shields.io/github/stars/DongChen06/MACACC) ![](https://img.shields.io/github/forks/DongChen06/MACACC)
-  
-- **Design and Modeling of a Cable-Driven Soft Robotic Arm Inspired by Octopus** \
-  Qi Xinda, Mei Yu, **Chen, Dong**, Li Zhaojian, Tan Xiaobo \
-  Soft Robotics, 2023  
 
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
