@@ -8,6 +8,11 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ### Preprints & Under Review
+- **Back-stepping Experience Replay with Application to Model-free Reinforcement Learning for a Soft Snake Robot** \
+  Xinda Qi, **Chen, Dong**, Zhaojian Li, Xiaobo Tan \
+  IEEE Robotics and Automation Letters, 2024 \
+  [[Paper]](xx)
+
 - **Design and Nonlinear Modeling of a Modular Cable-Driven Soft Robotic Arm** \
   Xinda Qi, Yu Mei, **Chen, Dong**, Zhaojian Li, Xiaobo Tan \
   IEEE Transactions on Mechatronics, 2024 \
