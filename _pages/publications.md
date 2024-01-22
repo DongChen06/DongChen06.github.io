@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ### Preprints & Under Review
 - **Back-stepping Experience Replay with Application to Model-free Reinforcement Learning for a Soft Snake Robot** \
-  Xinda Qi, **Chen, Dong**, Zhaojian Li, Xiaobo Tan \
+  Xinda Qi, **Chen, Dong***, Zhaojian Li, Xiaobo Tan \
   IEEE Robotics and Automation Letters, 2024 \
   [[Paper]](xx)
 
@@ -78,7 +78,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9901459) [[Codes1]](https://github.com/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/stars/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/forks/LongshengJiang/NGSIM-tools)  [[Codes2]](https://github.com/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/stars/DongChen06/PathTrackingBicycle) ![](https://img.shields.io/github/forks/DongChen06/PathTrackingBicycle)
   
 - **Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review** \
-  Lu, Yuzhen*, **Chen, Dong***, Ebenezer Olaniyi*, and Yanbo Huang \
+  Lu, Yuzhen, **Chen, Dong***, Ebenezer Olaniyi*, and Yanbo Huang \
   Computers and Electronics in Agriculture, 2022 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
   
