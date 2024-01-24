@@ -22,11 +22,17 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
   [[Paper]](https://arxiv.org/abs/2312.11084) [[Codes]](https://github.com/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/stars/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/forks/huahuaedi/MARL_in_CAV_control_review)
 
+- **SoybeanNet: Transformer-Based Convolutional Neural Network for Soybean Pod Counting from Unmanned Aerial Vehicle (UAV) Images** \
+  Jiajia Li, Raju Thada Magar, **Dong Chen**, Feng Lin, Dechun Wang, Xiang Yin, Weichao Zhuang, Zhaojian Li \
+  Computers and Electronics in Agriculture, 2023 \
+  [[Paper]](https://arxiv.org/abs/2310.10861)  [[Dataset]](https://www.kaggle.com/datasets/jiajiali/uav-based-soybean-pod-images) [[Codes]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images) ![](https://img.shields.io/github/stars/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images) ![](https://img.shields.io/github/forks/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
+
+
 - **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
   Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2023 \
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923008001?dgcid=coauthor) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
-
+  
 
 - **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** \
  **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li \
@@ -50,7 +56,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
   Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
   Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923008001) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
 
 -  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
   Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
