@@ -36,6 +36,7 @@ redirect_from:
 - Guest Editor for [Agricultural Cybernetics](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture/special-issue/10VPBS35XNL), Computers and Electronics in Agriculture
 
 #### Journal & Conference Reviewer
+- IEEE Transactions on Cybernetics
 - IEEE Transactions on Smart Grid
 - IEEE Transactions on Power Systems
 - IEEE Transactions on Energy Markets, Policy and Regulation
