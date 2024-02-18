@@ -34,11 +34,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923008001?dgcid=coauthor) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
   
 
-- **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** \
- **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li \
- IEEE Transactions on Intelligent Transportation Systems, 2023 \
- [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC) ![](https://img.shields.io/github/stars/DongChen06/MACACC) ![](https://img.shields.io/github/forks/DongChen06/MACACC)
-
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
   U.S. Patent Application 17/674,557, filed June 2, 2022.
@@ -48,6 +43,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   U.S. Patent Application 17/094,741, filed May 12, 2022.
 
 ### Journal Papers
+
+- **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** \
+ **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li \
+ IEEE Transactions on Intelligent Vehicles, 2023 \
+ [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC) ![](https://img.shields.io/github/stars/DongChen06/MACACC) ![](https://img.shields.io/github/forks/DongChen06/MACACC)
+
 - **Synthetic Data Augmentation by Diffusion Probabilistic Models to Enhance Weed Recognition**  \
   **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2024 \
