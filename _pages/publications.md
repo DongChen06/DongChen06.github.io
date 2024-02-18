@@ -50,8 +50,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ### Journal Papers
 - **Synthetic Data Augmentation by Diffusion Probabilistic Models to Enhance Weed Recognition**  \
   **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
-  Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2210.09509) [[Codes]](https://github.com/DongChen06/DMWeeds) ![](https://img.shields.io/github/stars/DongChen06/DMWeeds) ![](https://img.shields.io/github/forks/DongChen06/DMWeeds)
+  Computers and Electronics in Agriculture, 2024 \
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009055) [[Codes]](https://github.com/DongChen06/DMWeeds) ![](https://img.shields.io/github/stars/DongChen06/DMWeeds) ![](https://img.shields.io/github/forks/DongChen06/DMWeeds)
   
 - **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
   Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
