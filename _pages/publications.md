@@ -31,7 +31,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
   Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923008001?dgcid=coauthor) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
+  [[Paper]](https://arxiv.org/abs/2308.06668) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
   
 
 - **Automated testing of mobile devices using behavioral learning** \
