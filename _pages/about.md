@@ -28,6 +28,7 @@ Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA)
   </thead>
 </table>
 
+- <span style="color:darkred"> New! </span> 03/2024. "SoybeanNet for soybean pod counting" has been accepted by COMPAG
 - <span style="color:darkred"> New! </span> 02/2024. "MARL for CACC" has been accepted by IEEE TIV
 - <span style="color:darkred"> New! </span> 12/2023. "Diffusion models for agriculture image generation" has been accepted by COMPAG
 - <span style="color:darkred"> New! </span> 11/2023. "Label-efficient Learning in Agriculture" has been accepted by COMPAG
