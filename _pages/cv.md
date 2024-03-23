@@ -55,9 +55,10 @@ redirect_from:
 - International Journal of Intelligent Robotics and Applications
 - Evolving Systems
 - Autonomous Intelligent Systems
-- American Control Conference (ACC)
+- IEEE American Control Conference (ACC)
+- IEEE Conference on Control Technology and Applications (CCTA)
 - ASME Dynamic Systems and Control Conference (DSCC)
-- Modeling, Estimation and Control Conference (MECC)
+- IEEE Modeling, Estimation and Control Conference (MECC)
 
 ### Professional Memberships
 - Institute of Electrical and Electronics Engineers (IEEE), member
