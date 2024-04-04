@@ -37,6 +37,7 @@ redirect_from:
 
 #### Journal & Conference Reviewer
 - IEEE Transactions on Cybernetics
+- IEEE/CAA Journal of Automatica Sinica 
 - IEEE Transactions on Smart Grid
 - IEEE Transactions on Power Systems
 - IEEE Transactions on Energy Markets, Policy and Regulation
