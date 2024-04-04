@@ -37,13 +37,14 @@ redirect_from:
 
 #### Journal & Conference Reviewer
 - IEEE Transactions on Cybernetics
-- IEEE/CAA Journal of Automatica Sinica 
+- IEEE/CAA Journal of Automatica Sinica
+- Journal of Dynamic Systems, Measurement and Control 
 - IEEE Transactions on Smart Grid
 - IEEE Transactions on Power Systems
 - IEEE Transactions on Energy Markets, Policy and Regulation
+- IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Vehicles
-- IEEE Transactions on Industrial Informatics
 - Transportation Research Part C: Emerging Technologies
 - IEEE Robotics and Automation Letters
 - Journal of Field Robotics
@@ -76,4 +77,4 @@ redirect_from:
 - Recruiting Fellowship, MSU, 2018
 - National Endeavor Fellowship, UESTC, 2015
 - First Prize, 4th National Undergraduate Engineering Training Integration Ability Competition, China, 2015
-- Second Prize, 12nd National Undergraduate Electronic Design Contest, China, 2015
+- Second Prize, 12th National Undergraduate Electronic Design Contest, China, 2015
