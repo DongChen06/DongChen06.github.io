@@ -12,6 +12,7 @@ redirect_from:
 Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA), affiliated with both the [Environmental Institute](https://environment.virginia.edu/) and [Link Lab](https://engineering.virginia.edu/link-lab) mentored by Drs. [Arsalan Heydarian](https://engineering.virginia.edu/faculty/arsalan-heydarian) and [Brad Campbell](https://engineering.virginia.edu/faculty/brad-campbell). I earned my Ph.D. in Electrical and Computer Engineering from Michigan State University, guided by Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). 
 
 ## Research Interests
+- Cyber-Physical Systems (CPS) 
 - Reinforcement Learning
 - Multi-agent Systems
 - Intelligent Transportation Systems
