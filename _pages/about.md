@@ -28,12 +28,12 @@ Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA)
     </tr>
   </thead>
 </table>
-
-- <span style="color:darkred"> New! </span> 03/2024. "SoybeanNet for soybean pod counting" has been accepted by COMPAG
-- <span style="color:darkred"> New! </span> 02/2024. "MARL for CACC" has been accepted by IEEE TIV
-- <span style="color:darkred"> New! </span> 12/2023. "Diffusion models for agriculture image generation" has been accepted by COMPAG
-- <span style="color:darkred"> New! </span> 11/2023. "Label-efficient Learning in Agriculture" has been accepted by COMPAG
-- <span style="color:darkred"> New! </span> 11/2023. "Event-trigger MPC" has been accepted by T-IV [[Paper]](https://ieeexplore.ieee.org/document/10306336)
+ 
+- <span style="color:darkred"> New! </span> 03/2024. "SoybeanNet for soybean pod counting" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924002527) [[Dataset]](https://www.kaggle.com/datasets/jiajiali/uav-based-soybean-pod-images) [[Codes]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
+- <span style="color:darkred"> New! </span> 02/2024. "MARL for CACC" has been accepted by IEEE TIV [[Paper]](https://ieeexplore.ieee.org/abstract/document/10443048) [[Codes]](https://github.com/DongChen06/MACACC)
+- <span style="color:darkred"> New! </span> 12/2023. "Diffusion models for agriculture image generation" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923009055) [[Codes]](https://github.com/DongChen06/DMWeeds)
+- <span style="color:darkred"> New! </span> 11/2023. "Label-efficient Learning in Agriculture" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923008001) [[Codes]](https://github.com/JiajiaLi04/Label-efficient-in-Agriculture)
+- <span style="color:darkred"> New! </span> 11/2023. "Event-trigger MPC" has been accepted by T-IV [[Paper]](https://ieeexplore.ieee.org/document/10306336) [[Codes]](https://github.com/DangFengying/RL-based-event-triggered-MPC)
 - <span style="color:darkred"> New! </span> 09/2023. I gave an invited talk on "Communication-Efficient Decentralized MARL for CACC" at 2023 IEEE ITSC.
 - <span style="color:darkred"> New! </span> 08/2023. I am glad to receive the **Presentation Excellence Award** at the ASABE's 2023 Annual International Meeting
 - <span style="color:darkred"> New! </span> 07/2023. I have successfully defended the Ph.D. dissertation. Now, officially Dr. Chen!
