@@ -21,14 +21,6 @@ Hello! I currently serve as a Postdoc Fellow at the University of Virginia (UVA)
 
 
 ## News 
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
- 
 - <span style="color:darkred"> New! </span> 03/2024. "SoybeanNet for soybean pod counting" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924002527) [[Dataset]](https://www.kaggle.com/datasets/jiajiali/uav-based-soybean-pod-images) [[Codes]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
 - <span style="color:darkred"> New! </span> 02/2024. "MARL for CACC" has been accepted by IEEE TIV [[Paper]](https://ieeexplore.ieee.org/abstract/document/10443048) [[Codes]](https://github.com/DongChen06/MACACC)
 - <span style="color:darkred"> New! </span> 12/2023. "Diffusion models for agriculture image generation" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923009055) [[Codes]](https://github.com/DongChen06/DMWeeds)
