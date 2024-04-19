@@ -47,7 +47,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control** \
  **Chen, Dong**, Kaixiang Zhang, Yongqiang Wang, Xunyuan Yin, Zhaojian Li, Dimitar Filev \
  IEEE Transactions on Intelligent Vehicles, 2024 \
- [[Paper]](https://arxiv.org/abs/2308.02345) [[Codes]](https://github.com/DongChen06/MACACC) ![](https://img.shields.io/github/stars/DongChen06/MACACC) ![](https://img.shields.io/github/forks/DongChen06/MACACC)
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/10443048) [[Codes]](https://github.com/DongChen06/MACACC) ![](https://img.shields.io/github/stars/DongChen06/MACACC) ![](https://img.shields.io/github/forks/DongChen06/MACACC)
 
 - **Synthetic Data Augmentation by Diffusion Probabilistic Models to Enhance Weed Recognition**  \
   **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
