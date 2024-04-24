@@ -42,6 +42,7 @@ redirect_from:
 - IEEE Transactions on Smart Grid
 - IEEE Transactions on Power Systems
 - IEEE Transactions on Energy Markets, Policy and Regulation
+- Applied Energy
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Vehicles
