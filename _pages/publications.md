@@ -21,11 +21,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
   Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
   [[Paper]](https://arxiv.org/abs/2312.11084) [[Codes]](https://github.com/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/stars/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/forks/huahuaedi/MARL_in_CAV_control_review)
-
-- **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
-  Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
-  Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://arxiv.org/abs/2308.06668) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
   
 
 - **Automated testing of mobile devices using behavioral learning** \
@@ -38,6 +33,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### Journal Papers
+- **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
+  Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
+  Computers and Electronics in Agriculture, 2024 \
+  [[Paper]](https://arxiv.org/abs/2308.06668) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
+
 - **SoybeanNet: Transformer-Based Convolutional Neural Network for Soybean Pod Counting from Unmanned Aerial Vehicle (UAV) Images** \
   Jiajia Li, Raju Thada Magar, **Dong Chen**, Feng Lin, Dechun Wang, Xiang Yin, Weichao Zhuang, Zhaojian Li \
   Computers and Electronics in Agriculture, 2023 \
