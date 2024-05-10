@@ -110,6 +110,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9502564) [[Codes]](https://github.com/DongChen06/PGSIM)   ![](https://img.shields.io/github/stars/DongChen06/PGSIM) ![](https://img.shields.io/github/forks/DongChen06/PGSIM)
 
 ### Conference Papers
+- **Performance evaluation of real-time object detection for electric scooters** \
+  Dong Chen, Arman Hosseini, Arik Smith, Amir Farzin Nikkhah, Arsalan Heydarian, Omid Shoghli, and Bradford Campbell \
+  ACSE's International Conference on Computing in Civil Engineering., 2024.
+
 - **ML/DL in Agriculture through Label-Efficient Learning** \
   Li, Jiajia, **Chen, Dong**, Zhaojian Li, Yanbo Huang, and Daniel Morris  \
   ASABE Annual International Meeting, 2023.
