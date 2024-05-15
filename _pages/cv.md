@@ -46,6 +46,7 @@ redirect_from:
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Transportation Electrification
 - IEEE Transactions on Mobile Computing
 - Transportation Research Part C: Emerging Technologies
 - IEEE Robotics and Automation Letters
