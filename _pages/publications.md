@@ -13,10 +13,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   IEEE Robotics and Automation Letters, 2024 \
   [[Paper]](https://arxiv.org/abs/2401.11372)
 
-- **Design and Nonlinear Modeling of a Modular Cable-Driven Soft Robotic Arm** \
-  Xinda Qi, Yu Mei, **Chen, Dong**, Zhaojian Li, Xiaobo Tan \
-  IEEE Transactions on Mechatronics, 2024 \
-  [[Paper]](https://arxiv.org/abs/2401.06377)
 
 - **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
   Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
@@ -33,6 +29,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### Journal Papers
+
+- **Design and Nonlinear Modeling of a Modular Cable-Driven Soft Robotic Arm** \
+  Xinda Qi, Yu Mei, **Chen, Dong**, Zhaojian Li, Xiaobo Tan \
+  IEEE Transactions on Mechatronics, 2024 \
+  [[Paper]](https://arxiv.org/abs/2401.06377)
+
 - **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
   Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2024 \
