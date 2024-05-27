@@ -24,15 +24,21 @@ redirect_from:
 
 ### Invited Talks & Presentations
 #### Invited Talks
-- [09/2023] "Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control " at IEEE ITSC, Bilbao, Bizkaia, Spain (Virtual)
+- [05/2024] "Large Language Models and Foundation Models in Smart Agriculture" at Workshop on Artificial Intelligence in Agriculture, Jeonbuk National University, South Korea (Virtual)
+- [09/2023] "Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control" at IEEE ITSC, Bilbao, Bizkaia, Spain (Virtual)
 
 #### Presentations
+- [05/2024] "Impact of Different Infrastructures on the Behavioral and Physiological Responses of E-scooter Users" at Postdoctoral Research Symposium, University of Virginia, USA
 - [07/2023] "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach" at ASABE Annual International Meeting, Omaha, Nebraska, USA
 - [02/2023] "Synthetic Data Augmentation by Diffusion Probabilistic Models for Enhancing Weed Recognition", AI in Agriculture, ORLANDO, FL, USA
 - [07/2020] "Autonomous driving using safe reinforcement learning by incorporating a regret-based human lane-changing decision model" at American Control Conference (ACC), Denver, CO, USA  (Virtual)
 
+#### Posters
+- [05/2024] "Back-stepping Experience Replay with Application to Model-free Reinforcement Learning for a Soft Snake Robot" at Northeast Systems and Control Workshop, University of Pennsylvania, USA
+
 ### Services
 #### Editors
+- Session Chair for the 2024 Systems and Information Engineering Design Symposium (SIEDS)
 - Guest Editor for [Agricultural Cybernetics](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture/special-issue/10VPBS35XNL), Computers and Electronics in Agriculture
 
 #### Journal & Conference Reviewer
