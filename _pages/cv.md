@@ -67,6 +67,7 @@ redirect_from:
 - International Journal of Intelligent Robotics and Applications
 - Evolving Systems
 - Autonomous Intelligent Systems
+- Electronics (MPDI)
 - IEEE American Control Conference (ACC)
 - IEEE Conference on Control Technology and Applications (CCTA)
 - ASME Dynamic Systems and Control Conference (DSCC)
