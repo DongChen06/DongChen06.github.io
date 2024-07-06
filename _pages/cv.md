@@ -58,6 +58,7 @@ redirect_from:
 - IEEE Robotics and Automation Letters
 - Journal of Field Robotics
 - Heliyon, Cell Press
+- Scientific Reports
 - Computers and Electronics in Agriculture
 - Journal of the ASABE
 - Frontiers in Plant Science
