@@ -26,6 +26,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### Journal Papers
+- **Performance Evaluation of Semi-Supervised Learning Frameworks for Multi-Class Weed Detection** \
+  Li, Jiajia, **Chen, Dong**, Xunyuan Yin, and Zhaojian Li \
+  Frontiers in Plant Science, 2024
+
 - **Back-stepping Experience Replay with Application to Model-free Reinforcement Learning for a Soft Snake Robot** \
   Xinda Qi, **Chen, Dong***, Zhaojian Li, Xiaobo Tan \
   IEEE Robotics and Automation Letters, 2024 \
