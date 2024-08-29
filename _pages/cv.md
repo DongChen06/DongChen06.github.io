@@ -24,6 +24,7 @@ redirect_from:
 
 ### Invited Talks & Presentations
 #### Invited Talks
+- [07/2024] "Large Language Models and Foundation Models in Agriculture: Bridging Theory and Practice", Continuing Professional Development (CPD), ASABE, 2024
 - [05/2024] "Large Language Models and Foundation Models in Smart Agriculture" at Workshop on Artificial Intelligence in Agriculture, Jeonbuk National University, South Korea (Virtual)
 - [09/2023] "Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control" at IEEE ITSC, Bilbao, Bizkaia, Spain (Virtual)
 
