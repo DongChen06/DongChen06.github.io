@@ -41,6 +41,8 @@ redirect_from:
 #### Editors
 - Session Chair for the 2024 Systems and Information Engineering Design Symposium (SIEDS)
 - Guest Editor for [Agricultural Cybernetics](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture/special-issue/10VPBS35XNL), Computers and Electronics in Agriculture
+- Guest Editor for [Special Issue: Applications of Artificial Intelligence(AI) in Agriculture](https://www.mdpi.com/journal/electronics/special_issues/0KNMZ9J09C), Electronics
+- Guest Editor for [Special Issue: Robotics: From Technologies to Applications](https://www.mdpi.com/journal/electronics/special_issues/9JF41Y3479), Electronics
 
 #### Journal & Conference Reviewer
 - IEEE Transactions on Cybernetics
