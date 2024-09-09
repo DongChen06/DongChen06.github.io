@@ -11,9 +11,12 @@ redirect_from:
 ## About me
 Hello! I will join Agricultural and Biological Engineering at Mississippi State University (MSU) as a tenure-track assistant professor in Fall 2024. Before coming to MSU, I served as a Postdoc Fellow at the University of Virginia (UVA), affiliated with both the [Environmental Institute](https://environment.virginia.edu/) and [Link Lab](https://engineering.virginia.edu/link-lab) mentored by Drs. [Arsalan Heydarian](https://engineering.virginia.edu/faculty/arsalan-heydarian) and [Brad Campbell](https://engineering.virginia.edu/faculty/brad-campbell). I earned my Ph.D. in Electrical and Computer Engineering from Michigan State University in 2023, guided by Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). Before that, I obtained my B.Eng. degree from the Department of Mechanical Engineering, University of Electronic Science and Technology of China (UESTC) in June 2017.
 
-**If you are seeking any form of academic cooperation or want to join our group, please feel free to email me at chendon9@msu.edu**
-
 **Research Interests**: Reinforcement learning, multi-agent systems, intelligent transportation systems, computer vision, robotics, control, smart agriculture, etc.
+
+## Research Projects  
+My primary research interests lie in the intersection of control theory, multi-agent systems, and deep learning, with applications to autonomous vehicles, robotics, and smart agriculture. Some of my ongoing projects are soft robotics for fruit harvesting and sorting, multi-robot collaborations, and controlled environment agriculture.
+
+**If you are seeking any form of academic cooperation or want to join our group, please feel free to email me at chendon9@msu.edu**
 
 
 ## News 
