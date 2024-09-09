@@ -16,7 +16,8 @@ Hello! I will join Agricultural and Biological Engineering at Mississippi State 
 ## Research Projects  
 My primary research interests lie in the intersection of control theory, multi-agent systems, and deep learning, with applications to autonomous vehicles, robotics, and smart agriculture. Some of my ongoing projects are soft robotics for fruit harvesting and sorting, multi-robot collaborations, and controlled environment agriculture.
 
-**If you are seeking any form of academic cooperation or want to join our group, please feel free to email me at chendon9@msu.edu**
+## Openings
+I am looking for highly motivated research assistants (Ph.D., Master, and Undergraduates, Remote Interns) with aligned research interests. If you are interested in working with me, please send me an email (chendon9@msu.edu) with a copy of your CV and a summary of your qualifications.
 
 
 ## News 
