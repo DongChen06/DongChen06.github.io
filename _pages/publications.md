@@ -31,7 +31,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Sequential Service Restoration with Grid-Interactive Flexibility from Building AC Systems for Resilient Microgrids under Endogenous and Exogenous Uncertainties** \
  Cheng Ma, Shunbo Lei, **Chen, Dong**, Chong Wang, Nikos D. Hatziargyriou, Ziyou Song \
   Applied Energy, 2024 \
-  [[Paper]]()
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306261924017343)
 
 1. **Performance Evaluation of Semi-Supervised Learning Frameworks for Multi-Class Weed Detection** \
   Li, Jiajia, **Chen, Dong**, Xunyuan Yin, and Zhaojian Li \
