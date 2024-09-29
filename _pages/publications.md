@@ -24,7 +24,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ### Patents
 - **Automated testing of mobile devices using visual analysis** \
-*Chen, Dong**, Anqi Luo, Pei Zheng, and Tor Fredericks \
+**Chen, Dong**, Anqi Luo, Pei Zheng, and Tor Fredericks \
   U.S. Patent Application, US12026084B2
 
 ### Journal Papers
