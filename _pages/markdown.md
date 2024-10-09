@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 ## Office
-- Michigan State University, MI, USA
+- Mississippi State University, MS, USA
 
 ## Phone number
-- +1 517 249 9856
+- 662-325-8279
 
 ## Email
-- chendon9 [at] msu [dot] edu
+- dc2528 [at] msstate [dot] edu
 
 ## WeChat ID
 - chendon1234
