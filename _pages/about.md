@@ -23,10 +23,6 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 ## Research Projects  
 My primary research interests lie in the intersection of control, multi-agent systems, and deep learning, with applications to autonomous vehicles, robotics, and smart agriculture. Some of my ongoing projects are soft robotics for fruit harvesting and sorting, multi-robot collaborations, and controlled environment agriculture.
 
-## Openings
-I am looking for highly motivated research assistants (Ph.D., Master, and Undergraduates, Remote Interns) with aligned research interests. If you are interested in working with me, please send me an email (chendon9@msu.edu) with a copy of your CV and a summary of your qualifications.
-
-
 ## News 
 - <span style="color:darkred"> </span> 10/2024: Starting as a tenure-track assistant professor at Mississippi State University
 - <span style="color:darkred"> </span> 07/2024: I co-taught a CPD course on "Large Language Models and Foundation Models in Agriculture: Bridging Theory and Practice" in the 2024 ASABE Annual International Meeting
