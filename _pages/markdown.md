@@ -12,9 +12,8 @@ We are looking for highly motivated research assistants (Ph.D., Master, and Unde
 
 ## Graduate Students
 - 
+- 
 
 ## Undergraduate Students
-- 
+- Wolfe, Mary-Addison (BS@Mississippi State U.)
 
-## Other Personnel
-- 
