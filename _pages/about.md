@@ -14,6 +14,8 @@ redirect_from:
 
 [Mississippi State University](https://www.msstate.edu/)
 
+Email: dc2528 at msstate dot edu
+
 ## About me
 Hello! I am a tenure-track assistant professor of Agricultural and Biological Engineering at Mississippi State University (MSU) starting in Fall 2024. Before coming to MSU, I served as a Postdoc Fellow at the University of Virginia (UVA), affiliated with both the [Environmental Institute](https://environment.virginia.edu/) and [Link Lab](https://engineering.virginia.edu/link-lab) mentored by Drs. [Arsalan Heydarian](https://engineering.virginia.edu/faculty/arsalan-heydarian) and [Brad Campbell](https://engineering.virginia.edu/faculty/brad-campbell). I earned my Ph.D. in Electrical and Computer Engineering from Michigan State University in 2023, guided by Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). Before that, I obtained my B.Eng. degree from the Department of Mechanical Engineering, University of Electronic Science and Technology of China (UESTC) in June 2017.
 
