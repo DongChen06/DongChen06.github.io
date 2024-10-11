@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-[Assistant Professor]() \\
-[Agricultural & Biological Engineering](https://www.abe.msstate.edu/) \\
+[Assistant Professor]() 
+
+[Agricultural & Biological Engineering](https://www.abe.msstate.edu/) 
+
 [Mississippi State University](https://www.msstate.edu/)
 
 ## About me
