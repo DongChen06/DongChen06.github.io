@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[Assistant Professor]() 
-
-[Agricultural & Biological Engineering](https://www.abe.msstate.edu/) 
-
-[Mississippi State University](https://www.msstate.edu/)
-
+[Assistant Professor]() \\
+[Agricultural & Biological Engineering](https://www.abe.msstate.edu/) \\
+[Mississippi State University](https://www.msstate.edu/) \\
 Email: dc2528 at msstate dot edu
 
 ## About me
