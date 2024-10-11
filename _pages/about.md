@@ -11,6 +11,8 @@ redirect_from:
 [Assistant Professor]() \\
 [Agricultural & Biological Engineering](https://www.abe.msstate.edu/) \\
 [Mississippi State University](https://www.msstate.edu/) \\
+Phone: 662-325-8279 \\
+WeChat: chendon1234 \\
 Email: dc2528 at msstate dot edu
 
 ## About me
