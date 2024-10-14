@@ -11,9 +11,9 @@ We are looking for highly motivated research assistants (Ph.D., Master, and Unde
 
 
 ## Graduate Students
-- [comment]: <**Cheng OuYang**, PhD student, 2025-, MS@University of Florida>
-- [comment]: <**Moeen Ul Islam**, PhD student, 2025-, BS@American International University Bangladesh>
+- [comment]: <**Cheng OuYang**, PhD student, 2025.01-, MS@University of Florida>
+- [comment]: <**Moeen Ul Islam**, PhD student, 2025.01-, BS@American International University Bangladesh>
 
 ## Undergraduate Students
-- **Mary-Addison Wolfe**, USDA intern, 2024-, BS@Mississippi State U.
+- **Mary-Addison Wolfe**, USDA intern, 2024.06-, BS@Mississippi State University
 
