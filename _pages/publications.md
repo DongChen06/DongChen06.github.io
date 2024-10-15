@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ### Preprints & Under Review
 - **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
-  [[Arxiv]]()
+  [[Arxiv]](https://arxiv.org/abs/2410.09680)
   
 - **Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**  \
   Min Hua, **Chen, Dong**, Kun Jiang, Fanggang Zhang, Jinhai Wang, Bo Wang, Quan Zhou, Hongming Xu \
