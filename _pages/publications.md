@@ -23,13 +23,13 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
-  U.S. Patent Application 17/674,557, filed June 2, 2022.
+  U.S. Patent Application 17/674,557, filed June 2, 2022. \
   [[Link]](https://patents.google.com/patent/US20220171510A1/en)
 
 ### Patents
 - **Automated testing of mobile devices using visual analysis** \
 **Chen, Dong**, Anqi Luo, Pei Zheng, and Tor Fredericks \
-  U.S. Patent Application, US12026084B2
+  U.S. Patent Application, US12026084B2 \
   [[Link]](https://patents.google.com/patent/US12026084B2/en)
 
 ### Survey and Vision Papers
