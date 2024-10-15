@@ -24,11 +24,29 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
   U.S. Patent Application 17/674,557, filed June 2, 2022.
+  [[Link]](https://patents.google.com/patent/US20220171510A1/en)
 
 ### Patents
 - **Automated testing of mobile devices using visual analysis** \
 **Chen, Dong**, Anqi Luo, Pei Zheng, and Tor Fredericks \
   U.S. Patent Application, US12026084B2
+  [[Link]](https://patents.google.com/patent/US12026084B2/en)
+
+### Survey and Vision Papers
+1. **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
+  Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
+  Computers and Electronics in Agriculture, 2024 \
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S016816992400423X) [[Arxiv]](https://arxiv.org/abs/2308.06668) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
+  
+1. **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
+  Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
+  Computers and Electronics in Agriculture, 2023 \
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923008001)  [[Arxiv]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
+
+1. **Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review** \
+  Lu, Yuzhen, **Chen, Dong***, Ebenezer Olaniyi*, and Yanbo Huang \
+  Computers and Electronics in Agriculture, 2022 \
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233)  [[Arxiv]](https://arxiv.org/abs/2204.04707) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
 
 ### Journal Papers
 1. **Sequential Service Restoration with Grid-Interactive Flexibility from Building AC Systems for Resilient Microgrids under Endogenous and Exogenous Uncertainties** \
@@ -51,10 +69,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   IEEE Transactions on Mechatronics, 2024 \
   [[Paper]](https://ieeexplore.ieee.org/document/10554634) [[Arxiv]](https://arxiv.org/abs/2401.06377)
 
-1. **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
-  Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
-  Computers and Electronics in Agriculture, 2024 \
-[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S016816992400423X) [[Arxiv]](https://arxiv.org/abs/2308.06668) [[Codes]](https://github.com/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/stars/JiajiaLi04/Agriculture-Foundation-Models) ![](https://img.shields.io/github/forks/JiajiaLi04/Agriculture-Foundation-Models)
 
 1. **SoybeanNet: Transformer-Based Convolutional Neural Network for Soybean Pod Counting from Unmanned Aerial Vehicle (UAV) Images** \
   Jiajia Li, Raju Thada Magar, **Dong Chen**, Feng Lin, Dechun Wang, Xiang Yin, Weichao Zhuang, Zhaojian Li \
@@ -71,11 +85,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   **Chen, Dong**, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2024 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923009055)  [[Arxiv]](https://arxiv.org/abs/2210.09509)  [[Codes]](https://github.com/DongChen06/DMWeeds) ![](https://img.shields.io/github/stars/DongChen06/DMWeeds) ![](https://img.shields.io/github/forks/DongChen06/DMWeeds)
-  
-1. **Label-Efficient Learning in Agriculture: A Comprehensive Review** \
-  Li, Jiajia, **Chen, Dong**, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, and Xiaobo Tan \
-  Computers and Electronics in Agriculture, 2023 \
-  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923008001)  [[Arxiv]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
+
 
 1.  **Event-triggered model predictive control with deep reinforcement learning for autonomous driving** \
   Dang, Fengying, **Chen, Dong**, Jun Chen, and Zhaojian Li \
@@ -101,11 +111,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Jiang, Longsheng, **Chen, Dong**, Zhaojian Li, and Yue Wang \
   IEEE Transactions on Intelligent Transportation Systems, 2022 \
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9901459) [[Codes1]](https://github.com/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/stars/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/forks/LongshengJiang/NGSIM-tools)  [[Codes2]](https://github.com/LongshengJiang/NGSIM-tools) ![](https://img.shields.io/github/stars/DongChen06/PathTrackingBicycle) ![](https://img.shields.io/github/forks/DongChen06/PathTrackingBicycle)
-  
-1. **Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review** \
-  Lu, Yuzhen, **Chen, Dong***, Ebenezer Olaniyi*, and Yanbo Huang \
-  Computers and Electronics in Agriculture, 2022 \
-  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233)  [[Arxiv]](https://arxiv.org/abs/2204.04707) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
+
   
 1. **Performance evaluation of deep transfer learning on multi-class identification of common weed species in cotton production systems** \
   **Chen, Dong**, Yuzhen Lu, Zhaojian Li, and Sierra Young \
