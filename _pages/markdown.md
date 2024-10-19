@@ -18,3 +18,6 @@ We are looking for highly motivated research assistants (Ph.D., Master, and Unde
 - **Mary-Addison Wolfe**, USDA undergraduate intern, 2024.06-, BS@Mississippi State University
 - [comment]: <**Ranjan Subedi**, USDA undergraduate intern, 2024.10-, BS@Mississippi State University>
 
+
+## Alumni
+- **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD@University of Texas at Arlington
