@@ -20,4 +20,4 @@ We are looking for highly motivated research assistants (Ph.D., Master, and Unde
 
 
 ## Alumni
-- **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD@University of Texas at Arlington
+- **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD@University of Texas at Arlington, email: jab2991@mavs.uta.edu
