@@ -46,6 +46,7 @@ redirect_from:
 - Guest Editor for [Special Issue: Robotics: From Technologies to Applications](https://www.mdpi.com/journal/electronics/special_issues/9JF41Y3479), Electronics
 
 #### Journal & Conference Reviewer
+- Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE Transactions on Cybernetics
 - IEEE/CAA Journal of Automatica Sinica
 - Journal of Dynamic Systems, Measurement and Control 
