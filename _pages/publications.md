@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ### Preprints & Under Review
+- **A Comparative Study of Deep Reinforcement Learning for Crop Production Management**  \
+ Joseph Balderas, **Chen, Dong**, Yanbo Huang, Li Wang, Ren-Cang Li \
+  [[Arxiv]](https://arxiv.org/abs/2410.09680)
+
 - **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
   [[Arxiv]](https://arxiv.org/abs/2410.09680)
