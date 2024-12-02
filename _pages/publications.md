@@ -15,10 +15,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
   [[Arxiv]](https://arxiv.org/abs/2410.09680)
-  
-- **Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**  \
-  Min Hua, **Chen, Dong**, Kun Jiang, Fanggang Zhang, Jinhai Wang, Bo Wang, Quan Zhou, Hongming Xu \
-  [[Arxiv]](https://arxiv.org/abs/2406.11653)
+
 
 - **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
   Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
@@ -53,6 +50,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233)  [[Arxiv]](https://arxiv.org/abs/2204.04707) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
 
 ### Journal Papers
+  
+1. **Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**  \
+  Min Hua, **Chen, Dong**, Kun Jiang, Fanggang Zhang, Jinhai Wang, Bo Wang, Quan Zhou, Hongming Xu \
+  IEEE Transactions on Vehicle Technology, 2024 \
+  [[Arxiv]](https://arxiv.org/abs/2406.11653)
+  
 1. **Sequential Service Restoration with Grid-Interactive Flexibility from Building AC Systems for Resilient Microgrids under Endogenous and Exogenous Uncertainties** \
  Cheng Ma, Shunbo Lei, **Chen, Dong**, Chong Wang, Nikos D. Hatziargyriou, Ziyou Song \
   Applied Energy, 2024 \
