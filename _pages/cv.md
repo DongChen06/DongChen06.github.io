@@ -47,6 +47,7 @@ redirect_from:
 
 #### Journal & Conference Reviewer
 - Conference on Neural Information Processing Systems (NeurIPS)
+- IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Cybernetics
 - IEEE/CAA Journal of Automatica Sinica
 - Journal of Dynamic Systems, Measurement and Control 
