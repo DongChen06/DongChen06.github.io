@@ -8,12 +8,19 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ### Preprints & Under Review
+- **Cloud-assisted Trajectory Replanning Based on Model Predictive Control for Collision-Free Autonomous Driving**  \
+ Rong Wang, **Chen, Dong**, Hang Gao, Yunfeng Hu, Hong Chen, Xun Gong \
+ IEEE Transactions on Mechatronics, 2024 \
+  [[Arxiv]](xx)
+
 - **A Comparative Study of Deep Reinforcement Learning for Crop Production Management**  \
  Joseph Balderas, **Chen, Dong**, Yanbo Huang, Li Wang, Ren-Cang Li \
+ Smart Agriculture Technology, 2024 \
   [[Arxiv]](https://arxiv.org/abs/2411.04106)
 
 - **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
+  Computers and Electronics in Agriculture, 2024 \
   [[Arxiv]](https://arxiv.org/abs/2410.09680)
 
 
