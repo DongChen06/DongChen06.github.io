@@ -54,7 +54,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**  \
   Min Hua, **Chen, Dong**, Kun Jiang, Fanggang Zhang, Jinhai Wang, Bo Wang, Quan Zhou, Hongming Xu \
   IEEE Transactions on Vehicle Technology, 2024 \
-  [[Arxiv]](https://arxiv.org/abs/2406.11653)
+  [[Paper]](https://ieeexplore.ieee.org/document/10777569) [[Arxiv]](https://arxiv.org/abs/2406.11653)
   
 1. **Sequential Service Restoration with Grid-Interactive Flexibility from Building AC Systems for Resilient Microgrids under Endogenous and Exogenous Uncertainties** \
  Cheng Ma, Shunbo Lei, **Chen, Dong**, Chong Wang, Nikos D. Hatziargyriou, Ziyou Song \
