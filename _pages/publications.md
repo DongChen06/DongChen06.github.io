@@ -18,12 +18,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  Smart Agriculture Technology, 2024 \
   [[Arxiv]](https://arxiv.org/abs/2411.04106)
 
-- **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
-  **Chen, Dong**, Yanbo Huang \
-  Computers and Electronics in Agriculture, 2024 \
-  [[Arxiv]](https://arxiv.org/abs/2410.09680)
-
-
 - **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
   Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
   [[Arxiv]](https://arxiv.org/abs/2312.11084) [[Codes]](https://github.com/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/stars/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/forks/huahuaedi/MARL_in_CAV_control_review)
@@ -41,6 +35,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Link]](https://patents.google.com/patent/US12026084B2/en)
 
 ### Survey and Vision Papers
+
+1. **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
+  **Chen, Dong**, Yanbo Huang \
+  Computers and Electronics in Agriculture, 2025 \
+  [[Arxiv]](https://arxiv.org/abs/2410.09680)
+
 1. **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
   Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
   Computers and Electronics in Agriculture, 2024 \
