@@ -23,6 +23,7 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 My primary research interests lie in the intersection of control, multi-agent systems, and deep learning, with applications to autonomous vehicles, robotics, and smart agriculture. Some of my ongoing projects are soft robotics for fruit harvesting and sorting, multi-robot collaborations, and controlled environment agriculture.
 
 ## News 
+- <span style="color:darkred"> </span> 01/2025: Excited to welcome Ouyang and Moeen as new PhD students in our lab!
 - <span style="color:darkred"> </span> 10/2024: Starting as a tenure-track assistant professor at Mississippi State University
 - <span style="color:darkred"> </span> 07/2024: I co-taught a CPD course on "Large Language Models and Foundation Models in Agriculture: Bridging Theory and Practice" in the 2024 ASABE Annual International Meeting
 - <span style="color:darkred"> New Paper! </span> 06/2024. Our papers on soft robot control have been accepted by [IEEE TMECH](https://ieeexplore.ieee.org/abstract/document/10554634) and [RAL](https://ieeexplore.ieee.org/document/10597668)
