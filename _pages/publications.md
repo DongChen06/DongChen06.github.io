@@ -51,7 +51,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Computers and Electronics in Agriculture, 2023 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923008001)  [[Arxiv]](https://arxiv.org/abs/2305.14691) [[Codes]](https://github.com/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/stars/DongChen06/Label-efficient-in-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/Label-efficient-in-Agriculture)
 
-1. **Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review** \
+1. **Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review**  (<span style="color:darkred"> ESI Highly Cited Paper! </span>)\
   Lu, Yuzhen, **Chen, Dong***, Ebenezer Olaniyi*, and Yanbo Huang \
   Computers and Electronics in Agriculture, 2022 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233)  [[Arxiv]](https://arxiv.org/abs/2204.04707) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
@@ -116,7 +116,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Smart Agriculture Technology, 2023 \
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375523001132) [[Arxiv]](https://arxiv.org/abs/2303.04884) [[Codes]](https://github.com/pengyuchu/MSUAppleDatasetv2) ![](https://img.shields.io/github/stars/pengyuchu/MSUAppleDatasetv2) ![](https://img.shields.io/github/forks/pengyuchu/MSUAppleDatasetv2)
 
-1. **YOLOWeeds: a novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems** \
+1. **YOLOWeeds: a novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems** (<span style="color:darkred"> ESI Highly Cited Paper! </span>)\
     Dang, Fengying, **Chen, Dong***, Yuzhen Lu, and Zhaojian Li \
     Computers and Electronics in Agriculture, 2023 \
     [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000431) [[Codes]](https://github.com/DongChen06/DCW)  ![](https://img.shields.io/github/stars/DongChen06/DCW) ![](https://img.shields.io/github/forks/DongChen06/DCW)
