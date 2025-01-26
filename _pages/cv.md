@@ -68,6 +68,7 @@ redirect_from:
 - Computers and Electronics in Agriculture
 - Journal of the ASABE
 - Frontiers in Plant Science
+- Precision Agriculture
 - Artificial Intelligence in Agriculture
 - Applied Engineering in Agriculture
 - International Journal of Intelligent Systems
