@@ -149,6 +149,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### Conference Papers
+ 1. **Wcdt: World-centric diffusion transformer for traffic scene generation** \
+    Chen Yang, Yangfan He, Aaron Xuxiang Tian, Dong Chen, Jianhui Wang, Tianyu Shi, Arsalan Heydarian \
+    IEEE International Conference on Robotics and Automation (ICRA), 2025
+ 
  1. **Performance evaluation of real-time object detection for electric scooters** \
   Dong Chen, Arman Hosseini, Arik Smith, Amir Farzin Nikkhah, Arsalan Heydarian, Omid Shoghli, and Bradford Campbell \
   ACSE's International Conference on Computing in Civil Engineering., 2024.
