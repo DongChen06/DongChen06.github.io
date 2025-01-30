@@ -40,6 +40,7 @@ redirect_from:
 
 ### Services
 #### Editors
+- Guest Editor for [Advancing Agricultural Robotics for Sustainable Farming: Innovations, Applications, and Environmental Impact](https://www.mdpi.com/journal/sustainability/special_issues/P4Y911QVQV), Sustainability
 - Session Chair for the 2024 Systems and Information Engineering Design Symposium (SIEDS)
 - Guest Editor for [Agricultural Cybernetics](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture/special-issue/10VPBS35XNL), Computers and Electronics in Agriculture
 - Guest Editor for [Special Issue: Applications of Artificial Intelligence(AI) in Agriculture](https://www.mdpi.com/journal/electronics/special_issues/0KNMZ9J09C), Electronics
