@@ -39,7 +39,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
   Computers and Electronics in Agriculture, 2025 \
-  [[Arxiv]](https://arxiv.org/abs/2410.09680)
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169925001346?via%3Dihub) [[Arxiv]](https://arxiv.org/abs/2410.09680)
 
 1. **Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges** \
   Li, Jiajia, Mingle Xu, Lirong Xiang, **Chen, Dong**, Weichao Zhuang, Xunyuan Yin, and Zhaojian Li \
