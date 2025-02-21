@@ -8,6 +8,12 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ### Preprints & Under Review
+- **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**  \
+ Chengkai Xu, Jiaqi Liu, Shiyu Fang, Yiming Cui, **Chen, Dong**, Peng Hang, and Jian Sun \
+ IEEE Transactions on Intelligent Vehicles, 2025 \
+  [[Arxiv]](xx)
+
+
 - **Cloud-assisted Trajectory Replanning Based on Model Predictive Control for Collision-Free Autonomous Driving**  \
  Rong Wang, **Chen, Dong**, Hang Gao, Yunfeng Hu, Hong Chen, Xun Gong \
  IEEE Transactions on Mechatronics, 2024 \
