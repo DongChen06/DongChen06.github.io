@@ -13,10 +13,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  IEEE Transactions on Mechatronics, 2024 \
   [[Arxiv]](xx)
 
-- **A Comparative Study of Deep Reinforcement Learning for Crop Production Management**  \
- Joseph Balderas, **Chen, Dong**, Yanbo Huang, Li Wang, Ren-Cang Li \
- Smart Agriculture Technology, 2024 \
-  [[Arxiv]](https://arxiv.org/abs/2411.04106)
 
 - **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
   Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
@@ -57,6 +53,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233)  [[Arxiv]](https://arxiv.org/abs/2204.04707) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
 
 ### Journal Papers
+
+1. **A Comparative Study of Deep Reinforcement Learning for Crop Production Management**  \
+ Joseph Balderas, **Chen, Dong**, Yanbo Huang, Li Wang, Ren-Cang Li \
+ Smart Agriculture Technology, 2025 \
+  [[Arxiv]](https://arxiv.org/abs/2411.04106)
   
 1. **Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**  \
   Min Hua, **Chen, Dong**, Kun Jiang, Fanggang Zhang, Jinhai Wang, Bo Wang, Quan Zhou, Hongming Xu \
