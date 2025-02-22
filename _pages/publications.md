@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**  \
  Chengkai Xu, Jiaqi Liu, Shiyu Fang, Yiming Cui, **Chen, Dong**, Peng Hang, and Jian Sun \
  IEEE Transactions on Intelligent Vehicles, 2025 \
-  [[Arxiv]](xx)
+  [[Arxiv]](https://arxiv.org/abs/2502.01387)
 
 
 - **Cloud-assisted Trajectory Replanning Based on Model Predictive Control for Collision-Free Autonomous Driving**  \
