@@ -15,9 +15,9 @@ We are looking for highly motivated research assistants (Ph.D., Master, and Unde
 - **Moeen Ul Islam**, PhD student, 2025.01-, BS@American International University Bangladesh, email: mu136@msstate.edu
 
 ## Undergraduate Students
-- **Mary-Addison Wolfe**, USDA undergraduate student intern, 2024.06-, BS@Mississippi State University, email: mpw234@msstate.edu
-- **Ranjan Subedi**, Undergraduate student, 2024.10-, BS@Mississippi State University, email: rs2551@msstate.edu
-
+- **Ranjan Subedi**, Undergraduate student, 2024.10-, BS ECE@Mississippi State University, email: rs2551@msstate.edu
+- **Piyush Chaudhary**, Undergraduate student, 2025.01-, BS Computer Science & Mathematics Student@Mississippi State University, email: pc942@msstate.edu
 
 ## Alumni
-- **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD@University of Texas at Arlington, email: jab2991@mavs.uta.edu
+- **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD Mathematics@University of Texas at Arlington, email: jab2991@mavs.uta.edu
+- **Mary-Addison Wolfe**, USDA undergraduate student intern, 2024.06-2024.12, BS Ag & Bio Engineering@Mississippi State University, email: mpw234@msstate.edu
