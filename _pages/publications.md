@@ -36,7 +36,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   U.S. Patent Application, US12026084B2 \
   [[Link]](https://patents.google.com/patent/US12026084B2/en)
 
-### Survey and Vision Papers
+
+### Survey and Vision Papers (*Equal Contribution)
 
 1. **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
@@ -58,7 +59,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Computers and Electronics in Agriculture, 2022 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233)  [[Arxiv]](https://arxiv.org/abs/2204.04707) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
 
-### Journal Papers
+### Journal Papers (*Equal Contribution, +Corresponding Author)
 
 1. **A Comparative Study of Deep Reinforcement Learning for Crop Production Management**  \
  Joseph Balderas, **Chen, Dong**, Yanbo Huang, Li Wang, Ren-Cang Li \
@@ -69,21 +70,25 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Min Hua, **Chen, Dong**, Kun Jiang, Fanggang Zhang, Jinhai Wang, Bo Wang, Quan Zhou, Hongming Xu \
   IEEE Transactions on Vehicle Technology, 2024 \
   [[Paper]](https://ieeexplore.ieee.org/document/10777569) [[Arxiv]](https://arxiv.org/abs/2406.11653)
+
   
 1. **Sequential Service Restoration with Grid-Interactive Flexibility from Building AC Systems for Resilient Microgrids under Endogenous and Exogenous Uncertainties** \
  Cheng Ma, Shunbo Lei, **Chen, Dong**, Chong Wang, Nikos D. Hatziargyriou, Ziyou Song \
   Applied Energy, 2024 \
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0306261924017343)
 
+
 1. **Performance Evaluation of Semi-Supervised Learning Frameworks for Multi-Class Weed Detection** \
   Li, Jiajia, **Chen, Dong**, Xunyuan Yin, and Zhaojian Li \
   Frontiers in Plant Science, 2024 \
  [[Paper]](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1396568/full) [[Arxiv]](https://arxiv.org/abs/2403.03390) [[Codes]](https://github.com/JiajiaLi04/SemiWeeds) 
 
+
 1. **Back-stepping Experience Replay with Application to Model-free Reinforcement Learning for a Soft Snake Robot** \
-  Xinda Qi, **Chen, Dong***, Zhaojian Li, Xiaobo Tan \
+  Xinda Qi, **Chen, Dong**+, Zhaojian Li, Xiaobo Tan \
   IEEE Robotics and Automation Letters, 2024 \
   [[Paper]](https://ieeexplore.ieee.org/document/10597668) [[Arxiv]](https://arxiv.org/abs/2401.11372)
+
 
 1. **Design and Nonlinear Modeling of a Modular Cable-Driven Soft Robotic Arm** \
   Xinda Qi, Yu Mei, **Chen, Dong**, Zhaojian Li, Xiaobo Tan \
@@ -183,3 +188,22 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 1. **Autonomous driving using safe reinforcement learning by incorporating a regret-based human lane-changing decision model** \
   **Chen, Dong***, Longsheng Jiang*, Yue Wang, and Zhaojian Li \
   American Control Conference (ACC), 2020
+
+### Posters (*Presenter)
+
+1. **AI, Robotics, Sensing in Precision Agriculture** \
+   Dong Chen* \
+   2025 North MS Producer Advisory Council Meeting, 2025.02
+
+
+1. **Back-stepping Experience Replay with Application to Model-free Reinforcement Learning for a Soft Snake Robot** \
+   Xinda Qi, **Chen, Dong***, Zhaojian Li, Xiaobo Tan \
+   Northeast Systems and Control Workshop, University of Pennsylvania, USA, 2024.05
+
+
+### Abstracts
+
+
+
+
+
