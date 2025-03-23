@@ -22,7 +22,7 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; row-gap: 40px;">
   <figure style="text-align: center; width: 200px;">
-    <img src="Ouyang_photo.jpg" alt="Cheng OuYang" style="width: 20%;">
+    <img src="https://github.com/DongChen06/DongChen06.github.io/blob/master/_pages/Ouyang_photo.jpg" alt="Cheng OuYang" style="width: 20%;">
     <figcaption>
       <br><strong>Cheng OuYang</strong><br>
       Ph.D. student (starting Jan 2025)<br>
@@ -32,7 +32,7 @@ If you’d like to learn more about what life in my group is like, feel free to 
   </figure>
 
   <figure style="text-align: center; width: 250px;">
-    <img src="Ouyang_photo.jpg" alt="Moeen Ul Islam" style="width: 20%;">
+    <img src="https://github.com/DongChen06/DongChen06.github.io/blob/master/_pages/Ouyang_photo.jpg" alt="Moeen Ul Islam" style="width: 20%;">
     <figcaption>
       <br><strong>Moeen Ul Islam</strong><br>
       Ph.D. student (starting Jan 2025)<br>
@@ -45,7 +45,7 @@ If you’d like to learn more about what life in my group is like, feel free to 
 <h2 style="color: red;">Undergraduate Students</h2>
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <figure style="text-align: center; width: 250px;">
-    <img src="RJ_photo.jpg" alt="Cheng OuYang" style="width: 20%;">
+    <img src="https://github.com/DongChen06/DongChen06.github.io/blob/master/_pages/RJ_photo.jpg" alt="Cheng OuYang" style="width: 20%;">
     <figcaption>
       <br><strong>Ranjan Subedi</strong><br>
       Undergraduate student (starting Oct 2024)<br>
@@ -55,7 +55,7 @@ If you’d like to learn more about what life in my group is like, feel free to 
   </figure>
 
   <figure style="text-align: center; width: 250px;">
-    <img src="Piyush_photo.jpg" alt="Piyush Chaudhary" style="width: 20%;">
+    <img src="https://github.com/DongChen06/DongChen06.github.io/blob/master/_pages/Piyush_photo.jpg" alt="Piyush Chaudhary" style="width: 20%;">
     <figcaption>
       <br><strong>Piyush Chaudhary</strong><br>
       Undergraduate student (starting Jan 2025)<br>
