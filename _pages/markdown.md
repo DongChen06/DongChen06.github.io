@@ -20,12 +20,52 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 
 ## Graduate Students
-- **Cheng OuYang**, PhD student, 2025.01-, MS@University of Florida, email: co603@msstate.edu
-- **Moeen Ul Islam**, PhD student, 2025.01-, BS@American International University Bangladesh, email: mu136@msstate.edu
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; row-gap: 40px;">
+  <figure style="text-align: center; width: 200px;">
+    <img src="Ouyang_photo.jpg" alt="Cheng OuYang" style="width: 20%;">
+    <figcaption>
+      <br><strong>Cheng OuYang</strong><br>
+      Ph.D. student (starting Jan 2025)<br>
+      M.S. @ University of Florida<br>
+      Email: co603@msstate.edu<br>
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 250px;">
+    <img src="Ouyang_photo.jpg" alt="Moeen Ul Islam" style="width: 20%;">
+    <figcaption>
+      <br><strong>Moeen Ul Islam</strong><br>
+      Ph.D. student (starting Jan 2025)<br>
+      B.S. @ American International University-Bangladesh<br>
+      Email: mu136@msstate.edu
+    </figcaption>
+  </figure>
+</div>
+
 
 ## Undergraduate Students
-- **Ranjan Subedi**, Undergraduate student, 2024.10-, BS ECE@Mississippi State University, email: rs2551@msstate.edu
-- **Piyush Chaudhary**, Undergraduate student, 2025.01-, BS Computer Science & Mathematics Student@Mississippi State University, email: pc942@msstate.edu
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <figure style="text-align: center; width: 250px;">
+    <img src="RJ_photo.jpg" alt="Cheng OuYang" style="width: 20%;">
+    <figcaption>
+      <br><strong>Ranjan Subedi</strong><br>
+      Undergraduate student (starting Oct 2024)<br>
+      BS@Electrical and Computer Engineering<br>
+      Email: rs2551@msstate.edu<br>
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 250px;">
+    <img src="Piyush_photo.jpg" alt="Piyush Chaudhary" style="width: 20%;">
+    <figcaption>
+      <br><strong>Piyush Chaudhary</strong><br>
+      Undergraduate student (starting Jan 2025)<br>
+      BS Computer Science & Mathematics<br>
+      Email: pc942@msstate.edu
+    </figcaption>
+  </figure>
+</div>
+
 
 ## Alumni
 - **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD Mathematics@University of Texas at Arlington, email: jab2991@mavs.uta.edu
