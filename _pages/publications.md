@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwvTqeUAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
-### Preprints & Under Review
+<h3 style="color: red;">Preprints & Under Review</h3> 
 - **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**  \
  Chengkai Xu, Jiaqi Liu, Shiyu Fang, Yiming Cui, **Chen, Dong**, Peng Hang, and Jian Sun \
  IEEE Transactions on Intelligent Vehicles, 2025 \
@@ -30,14 +30,16 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   U.S. Patent Application 17/674,557, filed June 2, 2022. \
   [[Link]](https://patents.google.com/patent/US20220171510A1/en)
 
-### Patents
+<h3 style="color: red;">Patents</h3> 
+
 - **Automated testing of mobile devices using visual analysis** \
 **Chen, Dong**, Anqi Luo, Pei Zheng, and Tor Fredericks \
   U.S. Patent Application, US12026084B2 \
   [[Link]](https://patents.google.com/patent/US12026084B2/en)
 
 
-### Survey and Vision Papers (*Equal Contribution)
+
+<h3 style="color: red;">Survey and Vision Papers</h3> 
 
 1. **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
@@ -59,7 +61,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Computers and Electronics in Agriculture, 2022 \
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169922005233)  [[Arxiv]](https://arxiv.org/abs/2204.04707) [[Codes]](https://github.com/DongChen06/GANs-Agriculture)  ![](https://img.shields.io/github/stars/DongChen06/GANs-Agriculture) ![](https://img.shields.io/github/forks/DongChen06/GANs-Agriculture)
 
-### Journal Papers (*Equal Contribution, +Corresponding Author)
+
+
+<h3 style="color: red;">Journal Papers (*Equal Contribution, +Corresponding Author)</h3> 
 
 1. **A Comparative Study of Deep Reinforcement Learning for Crop Production Management**  \
  Joseph Balderas, **Chen, Dong**, Yanbo Huang, Li Wang, Ren-Cang Li \
@@ -160,7 +164,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/9502564) [[Arxiv]](https://arxiv.org/abs/2011.12354)  [[Codes]](https://github.com/DongChen06/PGSIM)   ![](https://img.shields.io/github/stars/DongChen06/PGSIM) ![](https://img.shields.io/github/forks/DongChen06/PGSIM)
 
 
-### Conference Papers
+<h3 style="color: red;">Conference Papers</h3> 
+
  1. **Wcdt: World-centric diffusion transformer for traffic scene generation** \
     Chen Yang, Yangfan He, Aaron Xuxiang Tian, Dong Chen, Jianhui Wang, Tianyu Shi, Arsalan Heydarian \
     IEEE International Conference on Robotics and Automation (ICRA), 2025
@@ -189,7 +194,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   **Chen, Dong***, Longsheng Jiang*, Yue Wang, and Zhaojian Li \
   American Control Conference (ACC), 2020
 
-### Posters (*Presenter)
+
+<h3 style="color: red;">Posters (*Presenter)</h3> 
 
 1. **AI, Robotics, Sensing in Precision Agriculture** \
    Dong Chen* \
