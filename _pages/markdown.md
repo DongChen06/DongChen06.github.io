@@ -32,7 +32,7 @@ If you’d like to learn more about what life in my group is like, feel free to 
   </figure>
 
   <figure style="text-align: center; width: 250px;">
-    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/moeen_photo.jpg" alt="Moeen Ul Islam" style="width: 80%;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/moeen_photo.png" alt="Moeen Ul Islam" style="width: 80%;">
     <figcaption>
       <br><strong>Moeen Ul Islam</strong><br>
       Ph.D. student (starting Jan 2025)<br>
