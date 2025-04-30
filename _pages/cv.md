@@ -48,7 +48,8 @@ redirect_from:
 <h2 style="color: red;">Services</h2>
 
 <h3 style="color: red;">Editors</h3>
-
+- Session Chair for "Intelligent Transportation Systems and AI-Based Methods" at IEEE IRCA 2025
+- Guest Editor for [AI-Driven Plant Intelligence: Bridging Multimodal Sensing, Adaptive Learning, and Ecological Sustainability in Precision Plant Protection](https://www.frontiersin.org/research-topics/70727/ai-driven-plant-intelligence-bridging-multimodal-sensing-adaptive-learning-and-ecological-sustainability-in-precision-plant-protection), Frontiers in Artificial Intelligence
 - Guest Editor for [Advancing Agricultural Robotics for Sustainable Farming: Innovations, Applications, and Environmental Impact](https://www.mdpi.com/journal/sustainability/special_issues/P4Y911QVQV), Sustainability
 - Session Chair for the 2024 Systems and Information Engineering Design Symposium (SIEDS)
 - Guest Editor for [Agricultural Cybernetics](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture/special-issue/10VPBS35XNL), Computers and Electronics in Agriculture
