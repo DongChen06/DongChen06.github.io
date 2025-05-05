@@ -96,6 +96,7 @@ redirect_from:
 - IEEE Conference on Control Technology and Applications (CCTA)
 - ASME Dynamic Systems and Control Conference (DSCC)
 - IEEE Modeling, Estimation and Control Conference (MECC)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
 
 
 <h2 style="color: red;">Professional Memberships</h2>
