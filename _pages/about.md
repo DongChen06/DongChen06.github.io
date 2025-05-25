@@ -23,6 +23,7 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 My primary research interests lie in the intersection of control, multi-agent systems, and deep learning, with applications to autonomous vehicles, robotics, and smart agriculture. Some of my ongoing projects are soft robotics for fruit harvesting and sorting, multi-robot collaborations, and controlled environment agriculture.
 
 ## News 
+- <span style="color:darkred"> News! </span> 05/2025: Excited to welcome Linyuan Wang as a new PhD student in our lab!
 - <span style="color:darkred"> Funding! </span> 03/2025: Our proposal, "Soybean Weed Management Through AI and Automation," has been awarded by the Mississippi Soybean Promotion Board (MSPB)!
 - <span style="color:darkred"> News! </span> 01/2025: Excited to welcome Ouyang and Moeen as new PhD students in our lab!
 - <span style="color:darkred"> News! </span> 10/2024: Starting as a tenure-track assistant professor at Mississippi State University
