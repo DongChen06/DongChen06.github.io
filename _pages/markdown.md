@@ -42,6 +42,17 @@ If you’d like to learn more about what life in my group is like, feel free to 
   </figure>
 </div>
 
+  <figure style="text-align: center; width: 250px;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/linyuan.jpg" alt="Linyuan Wang" style="width: 80%;">
+    <figcaption>
+      <br><strong>Linyuan Wang</strong><br>
+      Ph.D. student (starting May 2025)<br>
+      M.S. @ University of Florida<br>
+      Email: lw1789@msstate.edu
+    </figcaption>
+  </figure>
+</div>
+
 
 <h2 style="color: red;">Undergraduate Students</h2>
 
