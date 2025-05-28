@@ -20,11 +20,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   [[Arxiv]](xx)
 
 
-- **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
-  Min Hua, **Chen, Dong**, Xinda Qi, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
-  [[Arxiv]](https://arxiv.org/abs/2312.11084) [[Codes]](https://github.com/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/stars/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/forks/huahuaedi/MARL_in_CAV_control_review)
-  
-
 - **Automated testing of mobile devices using behavioral learning** \
   Fredericks, Tor, and **Chen, Dong** \
   U.S. Patent Application 17/674,557, filed June 2, 2022. \
@@ -41,6 +36,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 <h3 style="color: red;">Survey and Vision Papers</h3> 
 
+1. **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects** \
+  Min Hua, Xinda Qi, **Chen, Dong**, Kun Jiang, Zemin Eitan Liu, Quan Zhou, Hongming Xu \
+IEEE Transactions on Automation Science and Engineering, 2025 \
+  [[Arxiv]](https://arxiv.org/abs/2312.11084) [[Codes]](https://github.com/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/stars/huahuaedi/MARL_in_CAV_control_review) ![](https://img.shields.io/github/forks/huahuaedi/MARL_in_CAV_control_review)
+  
 1. **Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**  \
   **Chen, Dong**, Yanbo Huang \
   Computers and Electronics in Agriculture, 2025 \
