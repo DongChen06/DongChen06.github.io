@@ -107,6 +107,8 @@ redirect_from:
 - IEEE Robotics and Automation Technical Committee on Computer & Robot Vision
 - Computer Vision Foundation, member
 - American Society of Agricultural and Biological Engineers (ASABE), member
+- SPIE, The International Society for Optics and Photonics, member
+- American Society for Horticultural Science, member
 
 
 <h2 style="color: red;">Honors & Awards</h2>
