@@ -50,6 +50,16 @@ If you’d like to learn more about what life in my group is like, feel free to 
       Email: lw1789@msstate.edu
     </figcaption>
   </figure>
+
+  <figure style="text-align: center; width: 250px;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/Bishal_Image.jpg" alt="Bishal Adhikari" style="width: 80%;">
+    <figcaption>
+      <br><strong>Bishal Adhikari</strong><br>
+      Ph.D. student (starting July 2025)<br>
+      B.S. @ Tribhuvan University<br>
+      Email: ba974@msstate.edu
+    </figcaption>
+  </figure>
 </div>
 
 
