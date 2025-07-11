@@ -36,6 +36,7 @@ If you’d like to learn more about what life in my group is like, feel free to 
     <figcaption>
       <br><strong>Moeen Ul Islam</strong><br>
       Ph.D. student (starting Jan 2025)<br>
+      Co-supervised with Dr. Alex Thomasson<br>
       B.S. @ American International University-Bangladesh<br>
       Email: mu136@msstate.edu
     </figcaption>
