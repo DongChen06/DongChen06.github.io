@@ -123,7 +123,7 @@ IEEE Transactions on Automation Science and Engineering, 2025 \
   IEEE Transactions on Intelligent Vehicles, 2023 \
   [[Paper]](https://ieeexplore.ieee.org/document/10306336)  [[Arxiv]](https://arxiv.org/abs/2208.10302)  [[Codes1]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/forks/DangFengying/RL-based-event-triggered-MPC)  [[Codes2]](https://github.com/DangFengying/RL-based-event-triggered-MPC) ![](https://img.shields.io/github/stars/DongChen06/Event-trigger-MPC) ![](https://img.shields.io/github/forks/DongChen06/Event-trigger-MPC)
 
-1. **Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic** \
+1. **Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic** (<span style="color:darkred"> ESI Highly Cited Paper! </span>)\
   **Chen, Dong**, Mohammad R. Hajidavalloo, Zhaojian Li, Kaian Chen, Yongqiang Wang, Longsheng Jiang, and Yue Wang \
    IEEE Transactions on Intelligent Transportation Systems, 2023 \
    [[Paper]](https://ieeexplore.ieee.org/abstract/document/10159552)  [[Arxiv]](https://arxiv.org/abs/2105.05701) [[Codes]](https://github.com/DongChen06/MARL_CAVs)  ![](https://img.shields.io/github/stars/DongChen06/MARL_CAVs)  ![](https://img.shields.io/github/forks/DongChen06/MARL_CAVs)
