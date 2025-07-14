@@ -49,6 +49,8 @@ redirect_from:
 
 <h3 style="color: red;">Editors</h3>
 
+- Guest Editor for [Robotic Systems for Future Farming](https://www.mdpi.com/journal/sustainability/special_issues/P4Y911QVQV), Sensors
+
 - Session Chair for "Intelligent Transportation Systems and AI-Based Methods" at IEEE ICRA 2025
 
 - Guest Editor for [AI-Driven Plant Intelligence](https://www.frontiersin.org/research-topics/70727/ai-driven-plant-intelligence-bridging-multimodal-sensing-adaptive-learning-and-ecological-sustainability-in-precision-plant-protection), Frontiers in Artificial Intelligence
