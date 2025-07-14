@@ -49,7 +49,7 @@ redirect_from:
 
 <h3 style="color: red;">Editors</h3>
 
-- Guest Editor for [Robotic Systems for Future Farming](https://www.mdpi.com/journal/sustainability/special_issues/P4Y911QVQV), Sensors
+- Guest Editor for [Robotic Systems for Future Farming](https://www.mdpi.com/journal/sensors/special_issues/PB1O852JR3), Sensors
 
 - Session Chair for "Intelligent Transportation Systems and AI-Based Methods" at IEEE ICRA 2025
 
