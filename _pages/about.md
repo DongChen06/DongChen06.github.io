@@ -19,19 +19,25 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 
 **Research Interests**: My research focuses on advancing AI-driven agricultural systems by integrating machine learning, robotics, and domain knowledge to enable efficient, adaptable, and intelligent decision-making in real-world farming environments. 
   <figure style="text-align: center; width: 250px;">
-    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/research_agenda.png" alt="Moeen Ul Islam" style="width: 80%;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/research_agenda.png" alt="Research" style="width: 100%;">
   </figure>
 
 
 ## Research Projects
 **1. Soft Robotic Systems for Delicate Fruit Harvesting**
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <iframe width="360" height="202" src="https://www.youtube.com/watch?v=QVtEqudl_iI" 
-    title="Soft Robotic Harvesting" frameborder="0" allowfullscreen></iframe>
+  <iframe width="360" height="202" 
+    src="https://www.youtube.com/embed/QVtEqudl_iI" 
+    title="Soft Robotic Harvesting" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
   <p>
     Delicate fruits such as strawberries are highly susceptible to bruising and damage during conventional harvesting. 
     This project aims to develop soft robotic systems with compliant end-effectors, integrated sensing, and AI-based 
-    control strategies to enable gentle, selective, and efficient harvesting of fragile fruits in dynamic field environments.
+    control strategies to enable gentle, selective, and efficient harvesting of fragile fruits in dynamic field environments.  
+    <br><strong>Leading student:</strong> Moeen Ul Islam: soft robot design and system integration
+    <br><strong>Leading student:</strong> Cheng Ouyang: Data-driven control
   </p>
 </div>
 
