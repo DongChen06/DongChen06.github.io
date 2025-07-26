@@ -26,7 +26,7 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 ## Research Projects
 **1. Soft Robotic Systems for Delicate Fruit Harvesting**
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <iframe width="480" height="270" src="https://www.youtube.com/embed/QVtEqudl_iI" 
+  <iframe width="360" height="202" src="https://www.youtube.com/embed/QVtEqudl_iI" 
     title="Soft Robotic Harvesting" frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen></iframe>
