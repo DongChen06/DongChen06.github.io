@@ -19,7 +19,7 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 
 **Research Interests**: My research focuses on advancing AI-driven agricultural systems by integrating machine learning, robotics, and domain knowledge to enable efficient, adaptable, and intelligent decision-making in real-world farming environments. 
   <figure style="text-align: center; width: 250px;">
-    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/research_agenda.png" alt="Research" style="width: 90%;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/research_agenda.png" alt="Research" style="width: 100%;">
   </figure>
 
 
