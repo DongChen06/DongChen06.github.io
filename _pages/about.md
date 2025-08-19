@@ -47,11 +47,12 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 
 
 ## News 
-- <span style="color:darkred"> Lab Updates! </span> 07/2025: Welcome Linyuan Wang and Bishal Adhikari as new PhD students in our lab!
-- <span style="color:darkred"> News! </span> 06/2025: Excited to be invited to join the USDA NIFA Panel!
-- <span style="color:darkred"> Funding! </span> 03/2025: Our proposal, "Soybean Weed Management Through AI and Automation," has been awarded by the Mississippi Soybean Promotion Board (MSPB)!
-- <span style="color:darkred"> Lab Updates! </span> 01/2025: Welcome Ouyang and Moeen as new PhD students in our lab!
-- <span style="color:darkred"> Life Updates! </span> 10/2024: Starting as a tenure-track assistant professor at Mississippi State University
+- <span style="color:darkred"> Funding! </span> 07/2025: We received two awards to support undergraduate research — the **BCoE Undergraduate Student Research Award** ($2,500) and the **ORED Undergraduate Research Program** ($2,000). Congratulations to **Piyush**! 🎉
+- - <span style="color:darkred"> Lab Updates! </span> 07/2025: Welcome **Linyuan Wang** and **Bishal Adhikari** as new PhD students in our lab!
+- <span style="color:darkred"> News! </span> 06/2025: Excited to be invited to join the **USDA NIFA Panel**!
+- <span style="color:darkred"> Funding! </span> 03/2025: Our proposal, "Soybean Weed Management Through AI and Automation," has been awarded by the **Mississippi Soybean Promotion Board** (MSPB)!  🎉
+- <span style="color:darkred"> Lab Updates! </span> 01/2025: Welcome **Ouyang** and **Moeen** as new PhD students in our lab!
+- <span style="color:darkred"> Life Updates! </span> 10/2024: Starting as a **tenure-track assistant professor** at Mississippi State University
 - <span style="color:darkred"> Invited Talks! </span> 07/2024: I co-taught a CPD course on "Large Language Models and Foundation Models in Agriculture: Bridging Theory and Practice" at the 2024 ASABE Annual International Meeting
 - <span style="color:darkred"> New Papers! </span> 06/2024. Our papers on soft robot control have been accepted by [IEEE TMECH](https://ieeexplore.ieee.org/abstract/document/10554634) and [RAL](https://ieeexplore.ieee.org/document/10597668)
 - <span style="color:darkred"> New Papers! </span> 03/2024. "SoybeanNet for soybean pod counting" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924002527) [[Dataset]](https://www.kaggle.com/datasets/jiajiali/uav-based-soybean-pod-images) [[Codes]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
