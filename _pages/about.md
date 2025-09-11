@@ -47,7 +47,7 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 
 
 ## News 
-- <span style="color:darkred"> Funding! </span> 07/2025: We received two awards to support undergraduate research — the **BCoE Undergraduate Student Research Award** ($2,500) and the **ORED Undergraduate Research Program** ($2,000). Congratulations to **Piyush**! 🎉
+- <span style="color:darkred"> Funding! </span> 07/2025: We received three awards to support undergraduate research — the **Honors Fall 2025 Research Fellowship** ($1,500), **BCoE Undergraduate Student Research Award** ($2,500), and the **ORED Undergraduate Research Program** ($2,000). Congratulations to **Piyush**! 🎉
 - <span style="color:darkred"> Lab Updates! </span> 07/2025: Welcome **Linyuan Wang** and **Bishal Adhikari** as new PhD students in our lab!
 - <span style="color:darkred"> News! </span> 06/2025: Excited to be invited to join the **USDA NIFA Panel**!
 - <span style="color:darkred"> Funding! </span> 03/2025: Our proposal, "Soybean Weed Management Through AI and Automation," has been awarded by the **Mississippi Soybean Promotion Board** (MSPB)!  🎉
