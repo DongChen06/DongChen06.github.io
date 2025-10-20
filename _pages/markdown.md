@@ -88,6 +88,17 @@ If you’d like to learn more about what life in my group is like, feel free to 
   </figure>
 </div>
 
+  <figure style="text-align: center; width: 250px;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/IMG_2009.jpg" alt="Emma" style="width: 80%;">
+    <figcaption>
+      <br><strong>Emma Lovell</strong><br>
+      Undergraduate student (starting Oct 2025)<br>
+      BS Agricultural & Biological Engineering<br>
+      Email: ekl131@msstate.edu
+    </figcaption>
+  </figure>
+</div>
+
 <h2 style="color: red;">Alumni</h2>
 - **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD Mathematics@University of Texas at Arlington, email: jab2991@mavs.uta.edu
 - **Mary-Addison Wolfe**, USDA undergraduate student intern, 2024.06-2024.12, BS Ag & Bio Engineering@Mississippi State University, email: mpw234@msstate.edu
