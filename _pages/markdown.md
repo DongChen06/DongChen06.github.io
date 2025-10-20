@@ -86,7 +86,6 @@ If you’d like to learn more about what life in my group is like, feel free to 
       Email: pc942@msstate.edu
     </figcaption>
   </figure>
-</div>
 
   <figure style="text-align: center; width: 250px;">
     <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/IMG_2009.jpg" alt="Emma" style="width: 80%;">
