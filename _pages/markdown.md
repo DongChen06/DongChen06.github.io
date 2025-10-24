@@ -18,6 +18,22 @@ International conferences provide excellent opportunities for students to build 
 
 If you’d like to learn more about what life in my group is like, feel free to connect with my current or former students—they'll be happy to share their experiences! 😊
 
+<h2 style="color: red;">Students' Achivement</h2>
+
+- <span style="color:darkred"> Moeen UI Islam! </span> 10/2025: **1st Place** at poster presentation competition, Graduate Student Research Symposium, Mississippi State University. Congratulations to **Moeen**! 🎉
+
+- <span style="color:darkred"> Moeen UI Islam! </span> 10/2025: **2nd Place** at poster presentation competition, Digital Agriculture Symposium,  Purdue University. Congratulations to **Moeen**! 🎉
+  
+- <span style="color:darkred"> Moeen UI Islam! </span> 10/2025: **Travel Award** at Digital Agriculture Symposium,  Purdue University. Congratulations to **Moeen**! 🎉
+  
+- <span style="color:darkred"> Piyush Chaudhary! </span> 08/2025: **Shackouls Research Fellowship**, Mississippi State University. Congratulations to **Piyush**! 🎉
+  
+- <span style="color:darkred"> Piyush Chaudhary! </span> 08/2025: **BCoE Undergraduate Research Award**, Mississippi State University. Congratulations to **Piyush**! 🎉
+  
+- <span style="color:darkred"> Moeen UI Islam! </span> 08/2025: **3rd Place** in the poster presentation competition, 4th Annual AI in Agriculture Conference. Congratulations to **Moeen**! 🎉
+
+
+
 <h2 style="color: red;">Graduate Students</h2>
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
