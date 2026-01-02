@@ -82,16 +82,6 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 <h2 style="color: red;">Undergraduate Students</h2>
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <figure style="text-align: center; width: 250px;">
-    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/RJ_photo.jpg" alt="Cheng OuYang" style="width: 80%;">
-    <figcaption>
-      <br><strong>Ranjan Subedi</strong><br>
-      Undergraduate student (starting Oct 2024)<br>
-      BS@Electrical and Computer Engineering<br>
-      Email: rs2551@msstate.edu<br>
-    </figcaption>
-  </figure>
 
   <figure style="text-align: center; width: 250px;">
     <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/Piyush_photo.jpg" alt="Piyush Chaudhary" style="width: 80%;">
@@ -114,6 +104,17 @@ If you’d like to learn more about what life in my group is like, feel free to 
   </figure>
 </div>
 
+
 <h2 style="color: red;">Alumni</h2>
-- **Joseph Balderas**, USDA graduate intern, 2024.06-2024.08, PhD Mathematics@University of Texas at Arlington, email: jab2991@mavs.uta.edu
-- **Mary-Addison Wolfe**, USDA undergraduate student intern, 2024.06-2024.12, BS Ag & Bio Engineering@Mississippi State University, email: mpw234@msstate.edu
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <figure style="text-align: center; width: 250px;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/RJ_photo.jpg" alt="Cheng OuYang" style="width: 80%;">
+    <figcaption>
+      <br><strong>Ranjan Subedi</strong><br>
+      Undergraduate student (starting Oct 2024)<br>
+      BS@Electrical and Computer Engineering<br>
+      Email: rs2551@msstate.edu<br>
+      First employment: Amazon Web Services
+    </figcaption>
+  </figure>
