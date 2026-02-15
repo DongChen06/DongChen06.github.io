@@ -47,6 +47,8 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 
 
 ## News 
+- <span style="color:darkred"> Funding! </span> 02/2026: Two proposals about weed and wildlife management were awarded by the **Mississippi Soybean Promotion Board**! 🎉
+- <span style="color:darkred"> Funding! </span> 01/2026: Two proposals about weed management were awarded by the **National Watermelon Association** and **Multi-Regional Soybean Checkoff**! 🎉
 - <span style="color:darkred"> New Papers! </span> 01/2026. Two papers on soft robot control have been accepted by 2026 American Control Conference. See you in New Orleans this May!
 - <span style="color:darkred"> Funding! </span> 07/2025: We received three awards to support undergraduate research — the **Honors Fall 2025 Research Fellowship** ($1,500), **BCoE Undergraduate Student Research Award** ($2,500), and the **ORED Undergraduate Research Program** ($2,000). Congratulations to **Piyush**! 🎉
 - <span style="color:darkred"> Lab Updates! </span> 07/2025: Welcome **Linyuan Wang** and **Bishal Adhikari** as new PhD students in our lab!
