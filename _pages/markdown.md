@@ -30,7 +30,21 @@ If you’d like to learn more about what life in my group is like, feel free to 
   
 - <span style="color:darkred"> Piyush Chaudhary! </span> 08/2025: **BCoE Undergraduate Research Award**, Mississippi State University. Congratulations to **Piyush**! 🎉
   
-- <span style="color:darkred"> Moeen UI Islam! </span> 08/2025: **3rd Place** in the poster presentation competition, 4th Annual AI in Agriculture Conference. Congratulations to **Moeen**! 🎉
+- <span style="color:darkred"> Moeen UI Islam! </span> 04/2025: **3rd Place** in the poster presentation competition, 4th Annual AI in Agriculture Conference. Congratulations to **Moeen**! 🎉
+
+
+<h2 style="color: red;">Student Conference Participation</h2>
+
+- <span style="color:darkred"> </span> 04/2026: Moeen UI Islam will attend **SPIE Defense + Security**, National Harbor, Maryland
+
+- <span style="color:darkred"> </span> 02/2026: Linyuan Wang attended **Weed Science Society of America (WSSA) Annual Meeting**, Raleigh, NC
+
+- <span style="color:darkred"> </span> 10/2025: Moeen UI Islam attended **Purdue Symposium of Digital Agriculture**, West Lafayette, Indiana
+
+- <span style="color:darkred"> </span> 05/2025: Moeen UI Islam & Ouyang Chen attended **IEEE International Conference on Robotics and Automation (ICRA)**, Atlanta, GA
+
+- <span style="color:darkred"> </span> 04/2025: Moeen UI Islam & Ouyang Chen attended **4th Annual AI in Agriculture Conference**, Starkville, MS
+
 
 
 
