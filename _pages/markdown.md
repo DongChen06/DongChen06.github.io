@@ -132,3 +132,14 @@ If you’d like to learn more about what life in my group is like, feel free to 
       First employment: Amazon Web Services
     </figcaption>
   </figure>
+
+  <figure style="text-align: center; width: 250px;">
+    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/linjin.jpg" alt="Linjin He" style="width: 80%;">
+    <figcaption>
+      <br><strong>Linjin He</strong><br>
+      Graduate student at Georgetown University<br>
+      Remote Research Intern<br>
+      Email: lh1085@georgetown.edu<br>
+      First employment: PhD Student at the University of Virginia
+    </figcaption>
+  </figure>
