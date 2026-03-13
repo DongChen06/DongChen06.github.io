@@ -96,7 +96,6 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 <h2 style="color: red;">Undergraduate Students</h2>
 
-
   <figure style="text-align: center; width: 250px;">
     <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/Piyush_photo.jpg" alt="Piyush Chaudhary" style="width: 80%;">
     <figcaption>
@@ -116,7 +115,6 @@ If you’d like to learn more about what life in my group is like, feel free to 
       Email: ekl131@msstate.edu
     </figcaption>
   </figure>
-</div>
 
 
 <h2 style="color: red;">Alumni</h2>
