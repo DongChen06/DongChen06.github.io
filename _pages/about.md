@@ -17,34 +17,7 @@ Email: dc2528 at msstate dot edu
 ## About me
 Hello! I am a tenure-track assistant professor of Agricultural and Biological Engineering at Mississippi State University (MSU) starting in Fall 2024. Before coming to MSU, I served as a Postdoc Fellow at the University of Virginia (UVA), affiliated with both the [Environmental Institute](https://environment.virginia.edu/) and [Link Lab](https://engineering.virginia.edu/link-lab) mentored by Drs. [Arsalan Heydarian](https://engineering.virginia.edu/faculty/arsalan-heydarian) and [Brad Campbell](https://engineering.virginia.edu/faculty/brad-campbell). I earned my Ph.D. in Electrical and Computer Engineering from Michigan State University in 2023, guided by Dr. [Zhaojian Li](https://www.egr.msu.edu/rival/). Before that, I obtained my B.Eng. degree from the Department of Mechanical Engineering, University of Electronic Science and Technology of China (UESTC) in June 2017.
 
-**Research Interests**: My research focuses on advancing AI-driven agricultural systems by integrating machine learning, robotics, and domain knowledge to enable efficient, adaptable, and intelligent decision-making in real-world farming environments. 
-  <figure style="text-align: center; width: 500px;">
-    <img src="https://raw.githubusercontent.com/DongChen06/DongChen06.github.io/master/_pages/research_agenda.png" alt="Research" style="width: 100%;">
-  </figure>
-
-
-## Research Projects
-**1. Soft Robotic Systems for Delicate Fruit Harvesting**
-<div style="display: flex; align-items: center; gap: 24px; max-width: 1000px;">
-
-  <iframe width="360" height="202" src="https://www.youtube.com/embed/QVtEqudl_iI" 
-    title="Soft Robotic Harvesting" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
-
-  <div style="max-width: 600px;">
-    <p>
-      Delicate fruits such as strawberries are highly susceptible to bruising and damage during conventional harvesting.
-      This project aims to develop soft robotic systems with compliant end-effectors, integrated sensing, and AI-based 
-      control strategies to enable gentle, selective, and efficient harvesting of fragile fruits in dynamic field environments.
-    </p>
-    <p><strong>Leading student:</strong> Moeen Ul Islam — soft robot design and system integration<br>
-       <strong>Leading student:</strong> Cheng Ouyang — data-driven control</p>
-  </div>
-
-</div>
-
-
+My research interests lie in robotics, control, and artificial intelligence, with particular emphasis on their applications in autonomous systems, smart agriculture, and intelligent robotic perception and manipulation.
 
 ## News 
 - <span style="color:darkred"> Awards! </span> 03/2026: Happy to recieve the **William White Special Project Award**, Mississippi State University! 🎉
