@@ -20,6 +20,8 @@ Hello! I am a tenure-track assistant professor of Agricultural and Biological En
 My research interests lie in robotics, control, and artificial intelligence, with particular emphasis on their applications in autonomous systems, smart agriculture, and intelligent robotic perception and manipulation.
 
 ## News 
+
+- <span style="color:darkred"> News! </span> 03/2026: Excited to serve as an Associate Editor for the **IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) 2026**!
 - <span style="color:darkred"> Awards! </span> 03/2026: Happy to recieve the **William White Special Project Award**, Mississippi State University! 🎉
 - <span style="color:darkred"> Funding! </span> 02/2026: Two proposals about weed and wildlife management were awarded by the **Mississippi Soybean Promotion Board**! 🎉
 - <span style="color:darkred"> Funding! </span> 01/2026: Two proposals about weed management were awarded by the **National Watermelon Association** and **National Soybean Board**! 🎉
