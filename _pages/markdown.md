@@ -35,6 +35,8 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 <h2 style="color: red;">Student Conference Participation</h2>
 
+- <span style="color:darkred"> </span> 07/2026: Bishal Adhikari and Moeen UI Islam will attend **ASABE Annual International Meeting**, Indianapolis, Indiana
+
 - <span style="color:darkred"> </span> 06/2026: Bishal Adhikari will attend **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, Colorado 
 
 - <span style="color:darkred"> </span> 04/2026: Moeen UI Islam will attend **SPIE Defense + Security**, National Harbor, Maryland
