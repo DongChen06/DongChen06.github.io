@@ -39,7 +39,9 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 - <span style="color:darkred"> </span> 06/2026: Bishal Adhikari will attend **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, Colorado 
 
-- <span style="color:darkred"> </span> 04/2026: Moeen UI Islam will attend **SPIE Defense + Security**, National Harbor, Maryland
+- <span style="color:darkred"> </span> 05/2026: Moeen UI Islam, Bishal Adhikari, and Linyuan Wang will attend **Southeastern Specialty Crop Technology Conference and Show**, Tifton, GA
+
+- <span style="color:darkred"> </span> 04/2026: Moeen UI Islam attended **SPIE Defense + Security**, National Harbor, Maryland
 
 - <span style="color:darkred"> </span> 02/2026: Linyuan Wang attended **Weed Science Society of America (WSSA) Annual Meeting**, Raleigh, NC
 
