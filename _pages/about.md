@@ -21,29 +21,17 @@ My research interests lie in robotics, control, and artificial intelligence, wit
 
 ## News 
 
-- <span style="color:darkred"> News! </span> 03/2026: Excited to serve as an Associate Editor for the **IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) 2026**!
+- <span style="color:darkred"> Service! </span> 03/2026: Excited to serve as an Associate Editor for the **IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) 2026**!
 - <span style="color:darkred"> Awards! </span> 03/2026: Happy to recieve the **William White Special Project Award**, Mississippi State University! 🎉
 - <span style="color:darkred"> Funding! </span> 02/2026: Two proposals about weed and wildlife management were awarded by the **Mississippi Soybean Promotion Board**! 🎉
 - <span style="color:darkred"> Funding! </span> 01/2026: Two proposals about weed management were awarded by the **National Watermelon Association** and **National Soybean Board**! 🎉
-- <span style="color:darkred"> New Papers! </span> 01/2026. Two papers on soft robot control have been accepted by **2026 American Control Conference (ACC)**. See you in New Orleans this May!
-- <span style="color:darkred"> Funding! </span> 07/2025: We received three awards to support undergraduate research — the **Honors Fall 2025 Research Fellowship** ($1,500), **BCoE Undergraduate Student Research Award** ($2,500), and the **ORED Undergraduate Research Program** ($2,000). Congratulations to **Piyush**! 🎉
+- <span style="color:darkred"> Papers! </span> 01/2026. Two papers on soft robot control have been accepted by **2026 American Control Conference (ACC)**. See you in New Orleans this May!
+- <span style="color:darkred"> Awards! </span> 07/2025: We received three awards to support undergraduate research — the **Honors Fall 2025 Research Fellowship** ($1,500), **BCoE Undergraduate Student Research Award** ($2,500), and the **ORED Undergraduate Research Program** ($2,000). Congratulations to **Piyush**! 🎉
 - <span style="color:darkred"> Lab Updates! </span> 07/2025: Welcome **Linyuan Wang** and **Bishal Adhikari** as new PhD students in our lab!
-- <span style="color:darkred"> News! </span> 06/2025: Excited to be invited to join the **USDA NIFA Panel**!
+- <span style="color:darkred"> Service! </span> 06/2025: Excited to be invited to join the **USDA NIFA Panel**!
 - <span style="color:darkred"> Funding! </span> 03/2025: Our proposal, "Soybean Weed Management Through AI and Automation," has been awarded by the **Mississippi Soybean Promotion Board** (MSPB)!  🎉
 - <span style="color:darkred"> Lab Updates! </span> 01/2025: Welcome **Ouyang** and **Moeen** as new PhD students in our lab!
 - <span style="color:darkred"> Life Updates! </span> 10/2024: Starting as a **tenure-track assistant professor** at Mississippi State University
-- <span style="color:darkred"> Invited Talks! </span> 07/2024: I co-taught a CPD course on "Large Language Models and Foundation Models in Agriculture: Bridging Theory and Practice" at the 2024 ASABE Annual International Meeting
-- <span style="color:darkred"> New Papers! </span> 06/2024. Our papers on soft robot control have been accepted by [IEEE TMECH](https://ieeexplore.ieee.org/abstract/document/10554634) and [RAL](https://ieeexplore.ieee.org/document/10597668)
-- <span style="color:darkred"> New Papers! </span> 03/2024. "SoybeanNet for soybean pod counting" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924002527) [[Dataset]](https://www.kaggle.com/datasets/jiajiali/uav-based-soybean-pod-images) [[Codes]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
-- <span style="color:darkred"> New Papers! </span> 02/2024. "MARL for CACC" has been accepted by IEEE TIV [[Paper]](https://ieeexplore.ieee.org/abstract/document/10443048) [[Codes]](https://github.com/DongChen06/MACACC)
-- <span style="color:darkred"> New Papers! </span> 12/2023. "Diffusion models for agriculture image generation" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923009055) [[Codes]](https://github.com/DongChen06/DMWeeds)
-- <span style="color:darkred"> New Papers! </span> 11/2023. "Label-efficient Learning in Agriculture" has been accepted by COMPAG [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923008001) [[Codes]](https://github.com/JiajiaLi04/Label-efficient-in-Agriculture)
-- <span style="color:darkred"> New Papers! </span> 11/2023. "Event-trigger MPC" has been accepted by T-IV [[Paper]](https://ieeexplore.ieee.org/document/10306336) [[Codes]](https://github.com/DangFengying/RL-based-event-triggered-MPC)
-- <span style="color:darkred"> Invited Talks! </span> 09/2023. I gave an invited talk on "Communication-Efficient Decentralized MARL for CACC" at 2023 IEEE ITSC.
-- <span style="color:darkred"> Awards! </span> 08/2023. I am glad to receive the **Presentation Excellence Award** at the ASABE's 2023 Annual International Meeting
-- <span style="color:darkred"> Life Updates! </span> 07/2023. I have successfully defended the Ph.D. dissertation. Now, officially Dr. Chen!
-- <span style="color:darkred"> Awards! </span> 07/2023. Our paper on "Diffusion Model For Weed Recognition Enhancement" won the **ITSC Technical Community Meeting Paper Awards**.
-- <span style="color:darkred"> New Papers! </span> 05/2023.  Our paper on "Deep MARL for highway on-ramp merging in mixed traffic" has been accepted by T-ITS [[Paper]](https://ieeexplore.ieee.org/abstract/document/10159552) [[Codes]](https://github.com/DongChen06/MARL_CAVs)
 
 <br/>
 
