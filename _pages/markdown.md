@@ -37,6 +37,8 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 - <span style="color:darkred"> </span> 11/2026: Bishal Adhikari and Linyuan Wang will attend **CANVAS 2026**, Portland, Oregon
 
+- <span style="color:darkred"> </span> 09/2026: Cheng Ouyang will attend **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Pittsburgh, Pennsylvania
+
 - <span style="color:darkred"> </span> 07/2026: Bishal Adhikari and Moeen UI Islam will attend **ASABE Annual International Meeting**, Indianapolis, Indiana
 
 - <span style="color:darkred"> </span> 06/2026: Bishal Adhikari attended **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, Colorado 
@@ -49,9 +51,9 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 - <span style="color:darkred"> </span> 10/2025: Moeen UI Islam attended **Purdue Symposium of Digital Agriculture**, West Lafayette, Indiana
 
-- <span style="color:darkred"> </span> 05/2025: Moeen UI Islam & Ouyang Chen attended **IEEE International Conference on Robotics and Automation (ICRA)**, Atlanta, GA
+- <span style="color:darkred"> </span> 05/2025: Moeen UI Islam & Ouyang Cheng attended **IEEE International Conference on Robotics and Automation (ICRA)**, Atlanta, GA
 
-- <span style="color:darkred"> </span> 04/2025: Moeen UI Islam & Ouyang Chen attended **4th Annual AI in Agriculture Conference**, Starkville, MS
+- <span style="color:darkred"> </span> 04/2025: Moeen UI Islam & Ouyang Cheng attended **4th Annual AI in Agriculture Conference**, Starkville, MS
 
 
 
