@@ -18,8 +18,11 @@ International conferences provide excellent opportunities for students to build 
 
 If you’d like to learn more about what life in my group is like, feel free to connect with my current or former students—they'll be happy to share their experiences! 😊
 
+
 <h2 style="color: red;">Students' Achivement</h2>
 
+- <span style="color:darkred"> Moeen Ul Islam, Bishal Adhikari, Kori Edwards, and Lorien Harvey! </span> 7/2026: **1st Place** in the **Advanced Division** of the **2026 ASABE Student Robotics Challenge**. 🎉
+  
 - <span style="color:darkred"> Moeen UI Islam! </span> 10/2025: **1st Place** at poster presentation competition, Graduate Student Research Symposium, Mississippi State University. Congratulations to **Moeen**! 🎉
 
 - <span style="color:darkred"> Moeen UI Islam! </span> 10/2025: **2nd Place** at poster presentation competition, Digital Agriculture Symposium,  Purdue University. Congratulations to **Moeen**! 🎉
