@@ -22,7 +22,7 @@ My research interests lie in robotics, control, and artificial intelligence, wit
 
 ## News 
 
-- <span style="color:darkred"> Papers! </span> 07/2026. Our student robotics team won **First Place** in the **Advanced Division** of the **2026 ASABE Student Robotics Challenge**. Congratulations to the entire team and advisors on this outstanding achievement!
+- <span style="color:darkred"> Papers! </span> 07/2026. Our student robotics team won **First Place** and **Best Report** in the **Advanced Division** of the **2026 ASABE Student Robotics Challenge**. Congratulations to the entire team and advisors on this outstanding achievement!
 - <span style="color:darkred"> Papers! </span> 06/2026. One paper on Event-trigger DeePC control has been accepted by **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**. See you in Pittsburgh!
 - <span style="color:darkred"> Service! </span> 03/2026: Excited to serve as an Associate Editor for the **IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) 2026**!
 - <span style="color:darkred"> Awards! </span> 03/2026: Happy to recieve the **William White Special Project Award**, Mississippi State University! 🎉
