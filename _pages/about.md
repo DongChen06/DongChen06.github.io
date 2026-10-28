@@ -22,6 +22,7 @@ My research interests lie in robotics, control, and artificial intelligence, wit
 
 ## News 
 
+- <span style="color:darkred"> Service! </span> 12/2026: Excited to be invited to join the **NSF Panel**!
 - <span style="color:darkred"> Top 2% Scientist! </span> 10/2026. I am honored to be included in the **2026 World’s Top 2% Scientists** list for single-year research impact in Agronomy & Agriculture.
 - <span style="color:darkred"> Invited Talk! </span> 10/2026. I gave an invited talk on soft robotic design and control for agriculture at the workshop From Innovation to Adoption: Hardware, AI, Policy, and Funding Challenges in Agricultural Robotics during IEEE/RSJ IROS in Pittsburgh.
 - <span style="color:darkred"> Awards! </span> 07/2026. Our student robotics team won **First Place** and **Best Design Report** in the **Advanced Division** of the **2026 ASABE Student Robotics Challenge**. The team’s achievement was also **featured on the MSU homepage**:  [*“MSU student team drives out competition in robotics design contest.”*](https://www.msstate.edu/newsroom/article/2026/07/msu-student-team-drives-out-competition-robotics-design-contest).
