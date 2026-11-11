@@ -38,9 +38,9 @@ If you’d like to learn more about what life in my group is like, feel free to 
 
 <h2 style="color: red;">Student Conference Participation</h2>
 
-- <span style="color:darkred"> </span> 01/2027: Bishal Adhikari will **International Poultry Scientific Forum (IPSF)**, Atlanta, Georgia USA
+- <span style="color:darkred"> </span> 05/2027: Bishal Adhikari will attend **4th U.S. Precision Livestock Farming Conference**, Atlanta, Georgia USA
 
-- <span style="color:darkred"> </span> 11/2026: Moeen UI Islam, Bishal Adhikari and Linyuan Wang will attend **CANVAS 2026**, Portland, Oregon
+- <span style="color:darkred"> </span> 11/2026: Moeen UI Islam, Bishal Adhikari and Linyuan Wang attended **CANVAS 2026**, Portland, Oregon
 
 - <span style="color:darkred"> </span> 09/2026: Cheng Ouyang attended **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Pittsburgh, Pennsylvania
 
